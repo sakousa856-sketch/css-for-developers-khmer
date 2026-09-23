@@ -10,7 +10,7 @@
   </defs>
 
   <rect width="900" height="450" rx="16" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
-  <text x="450" y="40" text-anchor="middle" class="title">⚖️ CSS Specificity Hierarchy & Weight Score</text>
+  <text x="450" y="40" text-anchor="middle" class="title">⚖️ CSS Specificity Hierarchy &amp; Weight Score</text>
   <text x="450" y="65" text-anchor="middle" class="desc">កាលណាពិន្ទុ Specificity កាន់តែខ្ពស់ Style នោះនឹងមានអាទិភាពឈ្នះយកទៅបង្ហាញ</text>
 
   <!-- Level 1: Inline Style (1000) -->
