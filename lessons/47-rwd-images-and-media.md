@@ -39,6 +39,8 @@ img {
 }
 ```
 
+![Landscape Responsive](https://raw.githubusercontent.com/sakousa856-sketch/css-for-developers-khmer/main/assets/images/hero-bg-nature.jpg)
+
 ---
 
 ## 🎬 ៣. `aspect-ratio` ទំនើប (សមាមាត្រវីដេអូ និងរូបភាព)

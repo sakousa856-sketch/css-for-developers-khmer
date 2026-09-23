@@ -14,9 +14,7 @@
 
 ## 📍 ប្រភេទទាំង ៥ នៃ CSS Position
 
-<p align="center">
-  <img src="../assets/css-positioning-types.svg" alt="CSS Positioning Types" width="750" />
-</p>
+![CSS Positioning Types](https://raw.githubusercontent.com/sakousa856-sketch/css-for-developers-khmer/main/assets/css-positioning-types.svg)
 
 ### ១. `position: static` (Default)
 * ទីតាំងលំនាំដើមរបស់ Element ទាំងអស់តាម **Normal Document Flow**
@@ -96,9 +94,7 @@
 
 ## 🥞 `z-index` (ស្រទាប់លើក្រោម Stacking Order)
 
-<p align="center">
-  <img src="../assets/css-zindex-stack.svg" alt="CSS Z-Index & 3D Stacking Context" width="750" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" />
-</p>
+![CSS Z-Index & 3D Stacking Context](https://raw.githubusercontent.com/sakousa856-sketch/css-for-developers-khmer/main/assets/css-zindex-stack.svg)
 
 នៅពេល Elements ជាន់ពីលើគ្នា `z-index` កំណត់ថាតើ Element ណាត្រូវនៅពីលើ Element ណា (លេខកាន់តែធំ នៅលើគេបង្អស់):
 * **ចំណាំសំខាន់:** `z-index` ដំណើរការបានតែលើ Elements ណាដែលមាន `position` ក្រៅពី `static` ប៉ុណ្ណោះ (`relative`, `absolute`, `fixed`, `sticky`)។

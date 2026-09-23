@@ -97,9 +97,7 @@ h1 {
 
 នៅពេលដែល element មួយត្រូវបានកំណត់ Style ជាន់គ្នាពីប្រភពផ្សេងៗ Browser នឹងជ្រើសរើស Style មកបង្ហាញតាមលំដាប់អានុភាព (ពីខ្ពស់ទៅទាប)៖
 
-<p align="center">
-  <img src="../assets/css-cascade-flow.svg" alt="CSS Cascade Flow" width="750" />
-</p>
+![CSS Cascade Flow](https://raw.githubusercontent.com/sakousa856-sketch/css-for-developers-khmer/main/assets/css-cascade-flow.svg)
 
 1. **Inline Style** (អានុភាពខ្ពស់បំផុតក្នុងចំណោមទាំង ៣ ព្រោះស្ថិតនៅជិត Tag ផ្ទាល់)
 2. **External និង Internal Style Sheets** (ស្ថិតក្នុង `<head>`) — កូដណាដែលសរសេរនៅ **ក្រោមគេ** នឹងឈ្នះ (The last rule declared wins)

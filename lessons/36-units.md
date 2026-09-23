@@ -13,9 +13,7 @@
 
 ## 📏 ១. Absolute Units (ខ្នាតប្រវែងជាប់ថេរ)
 
-<p align="center">
-  <img src="../assets/css-units-guide.svg" alt="CSS Units Master Guide" width="750" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" />
-</p>
+![CSS Units Master Guide](https://raw.githubusercontent.com/sakousa856-sketch/css-for-developers-khmer/main/assets/css-units-guide.svg)
 
 ខ្នាតទាំងនេះមានទំហំថេរ មិនប្រែប្រួលតាមទំហំអេក្រង់ ឬ Parent ឡើយ៖
 * **`px` (Pixels):** 1px = 1 ចុច Pixel លើអេក្រង់កុំព្យូទ័រ (ខ្នាតគ្រឹះបំផុត)

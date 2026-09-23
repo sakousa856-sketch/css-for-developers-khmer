@@ -13,9 +13,7 @@
 
 ## ⚡ ប្រព័ន្ធអ័ក្ស Flexbox Axes System
 
-<p align="center">
-  <img src="../assets/css-flexbox-axes.svg" alt="CSS Flexbox Axes" width="750" />
-</p>
+![CSS Flexbox Axes](https://raw.githubusercontent.com/sakousa856-sketch/css-for-developers-khmer/main/assets/css-flexbox-axes.svg)
 
 * **Main Axis (អ័ក្សចម្បង):** តាមលំនាំដើមរត់តាម **ជួរដេកផ្ដេក (Horizontal ➔)**។ គ្រប់គ្រងដោយ `justify-content`។
 * **Cross Axis (អ័ក្សកាត់):** រត់កាត់កែង Main Axis តាម **ជួរឈរបញ្ឈរ (Vertical ↓)**។ គ្រប់គ្រងដោយ `align-items`។

@@ -13,9 +13,7 @@
 
 ## 💎 ធាតុផ្សំទាំង ៤ នៃ Glassmorphism
 
-<p align="center">
-  <img src="../assets/css-glassmorphism-layers.svg" alt="Glassmorphism 4-Layer Architecture" width="750" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" />
-</p>
+![Glassmorphism 4-Layer Architecture](https://raw.githubusercontent.com/sakousa856-sketch/css-for-developers-khmer/main/assets/css-glassmorphism-layers.svg)
 
 1. **Semi-transparent Background:** ផ្ទៃខាងក្រោយថ្លាស្រាល (ឧ. `background: rgba(255, 255, 255, 0.15);`)
 2. **Backdrop Blur:** ធ្វើឱ្យផ្ទៃដែលនៅពីក្រោយខ្នងប្រអប់ព្រាល (ឧ. `backdrop-filter: blur(16px);`)

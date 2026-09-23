@@ -13,9 +13,7 @@
 
 ## ⚖️ ឋានានុក្រមពិន្ទុ Specificity Score (The Specificity Hierarchy)
 
-<p align="center">
-  <img src="../assets/css-specificity-weight.svg" alt="CSS Specificity Weight" width="750" />
-</p>
+![CSS Specificity Weight](https://raw.githubusercontent.com/sakousa856-sketch/css-for-developers-khmer/main/assets/css-specificity-weight.svg)
 
 ពិន្ទុ Specificity ត្រូវបានគណនាជា ៤ ខ្ទង់ `(a, b, c, d)`៖
 

@@ -13,9 +13,7 @@
 
 ## 🕶️ សារៈសំខាន់នៃ `perspective`
 
-<p align="center">
-  <img src="../assets/css-3d-coordinates.svg" alt="CSS 3D Coordinate Space & Transforms" width="750" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" />
-</p>
+![CSS 3D Coordinate Space & Transforms](https://raw.githubusercontent.com/sakousa856-sketch/css-for-developers-khmer/main/assets/css-3d-coordinates.svg)
 
 បើគ្មាន `perspective` ទេ ការបង្វិល 3D នឹងមើលទៅរាបស្មើដូច 2D អញ្ចឹង។ `perspective: 1000px;` កំណត់ចម្ងាយពីភ្នែករបស់អ្នកមើលទៅកាន់ផ្ទាំង 3D (លេខកាន់តែតូច ជម្រៅ 3D កាន់តែខ្លាំង):
 

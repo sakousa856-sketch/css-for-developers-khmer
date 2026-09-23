@@ -27,9 +27,7 @@
 * **Style Sheets:** ឯកសារដែលផ្ទុកបញ្ជី Rules សម្រាប់កំណត់រូបរាងរបស់ HTML elements
 * **Cascading:** សំដៅលើលំដាប់អានុភាព (Waterfall flow) នៃ Rules ដែលត្រូវយកមកអនុវត្តលើ element នីមួយៗតាមឋានានុក្រម Specificity និងលំដាប់កូដ
 
-<p align="center">
-  <img src="../assets/css-syntax-anatomy.svg" alt="CSS Syntax Anatomy" width="700" />
-</p>
+![CSS Syntax Anatomy](https://raw.githubusercontent.com/sakousa856-sketch/css-for-developers-khmer/main/assets/css-syntax-anatomy.svg)
 
 ---
 

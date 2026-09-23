@@ -2,23 +2,21 @@
   <img style="border-radius: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="90" alt="CSS3 Logo" />
 </p>
 
-<h1 align="center">🎨 រៀន CSS ពេញលេញជាភាសាខ្មែរ (Learn CSS in Khmer - W3Schools Standard)</h1>
+<h1 align="center">🎨 រៀន CSS ពេញលេញជាភាសាខ្មែរ (CSS For Developers Khmer)</h1>
 
 <p align="center">
   <b>CSS (Cascading Style Sheets)</b> គឺជាភាសាគ្រឹះដ៏មានឥទ្ធិពលបំផុតសម្រាប់កំណត់សោភ័ណភាព ពណ៌ រូបរាង ពុម្ពអក្សរ និងប្លង់ (Layouts &amp; Responsive Design) នៃគេហទំព័រទាំងអស់នៅលើពិភពលោក។
 </p>
 
 <p align="center">
-  កម្រងមេរៀននេះត្រូវបានចងក្រងឡើងជា <b>CSS Master Course ស្តង់ដារពេញលេញ</b> (ផ្អែកលើរចនាសម្ព័ន្ធ W3Schools CSS) ដោយបានពន្យល់ទ្រឹស្តីជាភាសាខ្មែរយ៉ាងងាយយល់ ចំៗ រក្សាទុកពាក្យបច្ចេកទេសជាភាសាអង់គ្លេស ១០០% មានកូដគំរូជាក់ស្តែងអាច Run បានភ្លាមៗ រូបភាព SVG Diagrams ពន្យល់ក្បោះក្បាយ លំហាត់អនុវត្ត និង Capstone Projects។
+  កម្រងមេរៀននេះត្រូវបានចងក្រងឡើងជា <b>CSS Master Course ពេញលេញប្រកបដោយគុណភាពខ្ពស់</b> ដោយបានពន្យល់ទ្រឹស្តីជាភាសាខ្មែរយ៉ាងងាយយល់ ចំៗ រក្សាទុកពាក្យបច្ចេកទេសជាភាសាអង់គ្លេស ១០០% មានកូដគំរូជាក់ស្តែងអាច Run បានភ្លាមៗ រូបភាព SVG Diagrams ពន្យល់ក្បោះក្បាយ លំហាត់អនុវត្ត និង Capstone Projects។
 </p>
 
 ---
 
 ## 🎭 ទំនាក់ទំនងរវាង HTML, CSS និង JavaScript (The Trio Analogy)
 
-<p align="center">
-  <img src="assets/css-syntax-anatomy.svg" alt="CSS Anatomy" width="750" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" />
-</p>
+![CSS Anatomy](https://raw.githubusercontent.com/sakousa856-sketch/css-for-developers-khmer/main/assets/css-syntax-anatomy.svg)
 
 * 🦴 **HTML (The Skeleton - គ្រោងឆ្អឹង):** សាងសង់រចនាសម្ព័ន្ធគ្រោងឆ្អឹង និងមាតិកា (Headings, Paragraphs, Buttons, Forms, Tables)។
 * 👕 **CSS (The Skin & Clothes - ស្បែក និងសម្លៀកបំពាក់):** កំណត់ពណ៌ ស្ទីល រូបរាង ប្លង់ គម្លាត និងចលនា (Colors, Layouts, Flexbox, Grid, Animations)។
@@ -172,3 +170,12 @@
 * 💻 **Project 1:** [Modern Personal Portfolio](projects/01-modern-personal-portfolio) (Flexbox + Grid + Animations)
 * 💳 **Project 2:** [SaaS Pricing & Landing Page](projects/02-saas-pricing-and-landing-page) (Mobile-First + Glassmorphism)
 * 📊 **Project 3:** [Admin Dashboard Layout](projects/03-admin-dashboard-layout) (CSS Grid + Dark Mode Theme with Variables)
+
+---
+
+## 🔗 ឯកសារយោង (References)
+* [W3Schools CSS Tutorial](https://www.w3schools.com/css/)
+* [MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [CSS-Tricks](https://css-tricks.com/)
+* [Web.dev - Learn CSS](https://web.dev/learn/css/)
+

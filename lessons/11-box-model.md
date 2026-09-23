@@ -13,9 +13,7 @@
 
 ## 📦 ស្រទាប់ទាំង ៤ នៃ CSS Box Model
 
-<p align="center">
-  <img src="../assets/css-box-model.svg" alt="CSS Box Model Architecture" width="750" />
-</p>
+![CSS Box Model Architecture](https://raw.githubusercontent.com/sakousa856-sketch/css-for-developers-khmer/main/assets/css-box-model.svg)
 
 1. **Content (មាតិកា):** ផ្ទៃស្នូលកណ្តាលដែលផ្ទុកអត្ថបទ (Text) ឬរូបភាព (Image) ដែលមានទំហំ `width` $\times$ `height`។
 2. **Padding (គម្លាតខាងក្នុង):** ផ្ទៃលំហទទេថ្លា ឬមានពណ៌ព័ទ្ធជុំវិញមាតិកា (នៅខាងក្នុងបន្ទាត់ Border)។

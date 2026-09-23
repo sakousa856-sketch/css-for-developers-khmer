@@ -14,9 +14,7 @@
 
 ## 🪟 CSS Grid Anatomy
 
-<p align="center">
-  <img src="../assets/css-grid-anatomy.svg" alt="CSS Grid Anatomy" width="750" />
-</p>
+![CSS Grid Anatomy](https://raw.githubusercontent.com/sakousa856-sketch/css-for-developers-khmer/main/assets/css-grid-anatomy.svg)
 
 ---
 

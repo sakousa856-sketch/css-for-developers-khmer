@@ -8,6 +8,9 @@
 ## 📋 លក្ខខណ្ឌតម្រូវ (Requirements)
 1. **Container:** ទទឹងអតិបរមា `320px`, ផ្ទៃក្រោយពណ៌ស, ជ្រុងមូល `16px`, មាន Soft Shadow ស្អាត។
 2. **Avatar Image:** រូបរាងរង្វង់មូល (`border-radius: 50%`), ទំហំ `96px x 96px`, មាន Border ពណ៌ខៀវ `3px solid #3b82f6`។
+
+![Avatar Preview](https://raw.githubusercontent.com/sakousa856-sketch/css-for-developers-khmer/main/assets/images/avatar-user.jpg)
+
 3. **Typography:** ចំណងជើងឈ្មោះ Bold `20px`, តួនាទីការងារ (Job Title) ពណ៌ប្រផេះ `14px`។
 4. **Follow Button:** ផ្ទៃពណ៌ខៀវ `#2563eb`, ជ្រុងមូល `8px`, មាន Hover Transition ឡើងលើ `-2px` និងចេញ Shadow។
 

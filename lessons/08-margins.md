@@ -56,9 +56,7 @@ p {
 
 ## 💥 បាតុភូត Margin Collapse (Vertical Margin Collapse)
 
-<p align="center">
-  <img src="../assets/css-margin-collapse.svg" alt="CSS Margin Collapse Mechanism" width="750" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" />
-</p>
+![CSS Margin Collapse Mechanism](https://raw.githubusercontent.com/sakousa856-sketch/css-for-developers-khmer/main/assets/css-margin-collapse.svg)
 
 នៅពេល Element ប្រភេទ Block ពីរស្ថិតនៅពីលើ និងពីក្រោមគ្នា (Top and Bottom margins) គម្លាតរវាងពួកវានឹង **មិនបូកបញ្ចូលគ្នាឡើយ**។ ផ្ទុយទៅវិញ Browser នឹងយកតែ **Margin ណាដែលធំជាងគេតែមួយគត់** មកអនុវត្ត៖
 

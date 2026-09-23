@@ -13,9 +13,7 @@
 
 ## 🧱 តម្លៃនៃ `display` ទាំង ៤ សំខាន់ៗ
 
-<p align="center">
-  <img src="../assets/css-display-comparison.svg" alt="CSS Display Modes Comparison" width="750" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" />
-</p>
+![CSS Display Modes Comparison](https://raw.githubusercontent.com/sakousa856-sketch/css-for-developers-khmer/main/assets/css-display-comparison.svg)
 
 ### ១. `display: block`
 * ចាប់ផ្តើមបន្ទាត់ថ្មីជានិច្ច (New line)

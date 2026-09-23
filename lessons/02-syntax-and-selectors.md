@@ -22,9 +22,7 @@ selector {
 }
 ```
 
-<p align="center">
-  <img src="../assets/css-syntax-anatomy.svg" alt="CSS Syntax Anatomy" width="700" />
-</p>
+![CSS Syntax Anatomy](https://raw.githubusercontent.com/sakousa856-sketch/css-for-developers-khmer/main/assets/css-syntax-anatomy.svg)
 
 * **Selector:** ចង្អុលទៅកាន់ HTML element ណាដែលអ្នកចង់ដាក់ Style (ឧ. `h1`, `.card`, `#logo`)
 * **Declaration Block:** ស្ថិតនៅក្នុងសញ្ញាវង់ក្រចកទំពក់ `{ ... }`

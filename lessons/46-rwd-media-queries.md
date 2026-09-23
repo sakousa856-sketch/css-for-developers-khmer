@@ -13,9 +13,7 @@
 
 ## 📱 Standard Breakpoints ពេញនិយម
 
-<p align="center">
-  <img src="../assets/css-responsive-break.svg" alt="CSS Responsive Breakpoints" width="750" />
-</p>
+![CSS Responsive Breakpoints](https://raw.githubusercontent.com/sakousa856-sketch/css-for-developers-khmer/main/assets/css-responsive-break.svg)
 
 | ទំហំឧបករណ៍ (Device) | Breakpoint Range | Media Query (Mobile-First) |
 | :--- | :--- | :--- |

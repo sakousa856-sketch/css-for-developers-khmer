@@ -38,6 +38,8 @@
 }
 ```
 
+![Brand Partner Logo](https://raw.githubusercontent.com/sakousa856-sketch/css-for-developers-khmer/main/assets/images/brand-partner.png)
+
 ---
 
 ## 💻 ឧទាហរណ៍កូដជាក់ស្តែង (HTML + CSS)
