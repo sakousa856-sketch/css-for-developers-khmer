@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 480" width="100%" height="100%">
+  <defs>
+    <style>
+      .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 20px; font-weight: bold; fill: #1e293b; }
+      .pos-name { font-family: "SF Mono", Menlo, Consolas, monospace; font-size: 15px; font-weight: bold; }
+      .pos-desc { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 12px; fill: #475569; }
+    </style>
+  </defs>
+
+  <rect width="950" height="480" rx="16" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="475" y="38" text-anchor="middle" class="title">📍 CSS Position Properties Visual Comparison</text>
+
+  <!-- Static -->
+  <g transform="translate(30, 70)">
+    <rect width="165" height="370" rx="10" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+    <rect width="165" height="42" rx="10" fill="#f1f5f9"/>
+    <text x="82" y="27" text-anchor="middle" class="pos-name" fill="#334155">static</text>
+    <text x="82" y="65" text-anchor="middle" class="pos-desc" font-weight="bold">Default Normal Flow</text>
+    <text x="82" y="85" text-anchor="middle" class="pos-desc">មិនទទួល top/left</text>
+    <!-- Visual -->
+    <rect x="20" y="110" width="125" height="60" rx="6" fill="#e2e8f0" stroke="#94a3b8"/>
+    <text x="82" y="145" text-anchor="middle" font-size="12" fill="#475569">Block 1</text>
+    <rect x="20" y="180" width="125" height="60" rx="6" fill="#cbd5e1" stroke="#64748b"/>
+    <text x="82" y="215" text-anchor="middle" font-size="12" fill="#334155">Block 2</text>
+    <rect x="20" y="250" width="125" height="60" rx="6" fill="#e2e8f0" stroke="#94a3b8"/>
+    <text x="82" y="285" text-anchor="middle" font-size="12" fill="#475569">Block 3</text>
+    <text x="82" y="345" text-anchor="middle" class="pos-desc" fill="#64748b">ហូរតាមលំដាប់ធម្មតា</text>
+  </g>
+
+  <!-- Relative -->
+  <g transform="translate(215, 70)">
+    <rect width="165" height="370" rx="10" fill="#ffffff" stroke="#93c5fd" stroke-width="2"/>
+    <rect width="165" height="42" rx="10" fill="#dbeafe"/>
+    <text x="82" y="27" text-anchor="middle" class="pos-name" fill="#1d4ed8">relative</text>
+    <text x="82" y="65" text-anchor="middle" class="pos-desc" font-weight="bold">ធៀបនឹងទីតាំងដើម</text>
+    <text x="82" y="85" text-anchor="middle" class="pos-desc">រក្សាគម្លាតកន្លែងដើម</text>
+    <!-- Visual -->
+    <rect x="20" y="110" width="125" height="60" rx="6" fill="#e2e8f0"/>
+    <rect x="20" y="180" width="125" height="60" rx="6" fill="none" stroke="#94a3b8" stroke-dasharray="4,4"/>
+    <rect x="35" y="195" width="125" height="60" rx="6" fill="#bfdbfe" stroke="#3b82f6"/>
+    <text x="97" y="230" text-anchor="middle" font-size="12" font-weight="bold" fill="#1e40af">top:15px; left:15px</text>
+    <rect x="20" y="250" width="125" height="60" rx="6" fill="#e2e8f0"/>
+    <text x="82" y="345" text-anchor="middle" class="pos-desc" fill="#1e40af">រំកិលចេញពីកន្លែងដើម</text>
+  </g>
+
+  <!-- Absolute -->
+  <g transform="translate(400, 70)">
+    <rect width="165" height="370" rx="10" fill="#ffffff" stroke="#fcd34d" stroke-width="2"/>
+    <rect width="165" height="42" rx="10" fill="#fef3c7"/>
+    <text x="82" y="27" text-anchor="middle" class="pos-name" fill="#b45309">absolute</text>
+    <text x="82" y="65" text-anchor="middle" class="pos-desc" font-weight="bold">ធៀបនឹង Parent Relative</text>
+    <text x="82" y="85" text-anchor="middle" class="pos-desc">របូតចេញពី Normal Flow</text>
+    <!-- Visual Parent Box -->
+    <rect x="15" y="110" width="135" height="200" rx="6" fill="#fefce8" stroke="#eab308" stroke-width="1.5"/>
+    <text x="82" y="130" text-anchor="middle" font-size="11" fill="#854d0e">Parent (relative)</text>
+    <rect x="40" y="150" width="95" height="50" rx="6" fill="#fde68a" stroke="#d97706"/>
+    <text x="87" y="180" text-anchor="middle" font-size="11" font-weight="bold" fill="#92400e">top: 0; right: 0</text>
+    <text x="82" y="345" text-anchor="middle" class="pos-desc" fill="#b45309">ហោះទៅតាម Parent</text>
+  </g>
+
+  <!-- Fixed -->
+  <g transform="translate(585, 70)">
+    <rect width="165" height="370" rx="10" fill="#ffffff" stroke="#86efac" stroke-width="2"/>
+    <rect width="165" height="42" rx="10" fill="#dcfce7"/>
+    <text x="82" y="27" text-anchor="middle" class="pos-name" fill="#15803d">fixed</text>
+    <text x="82" y="65" text-anchor="middle" class="pos-desc" font-weight="bold">ធៀបនឹង Viewport</text>
+    <text x="82" y="85" text-anchor="middle" class="pos-desc">ជាប់នៅនឹងកន្លែងពេល Scroll</text>
+    <!-- Visual Screen -->
+    <rect x="15" y="110" width="135" height="200" rx="6" fill="#f0fdf4" stroke="#22c55e" stroke-width="1.5"/>
+    <rect x="15" y="110" width="135" height="25" rx="4" fill="#86efac" stroke="#16a34a"/>
+    <text x="82" y="127" text-anchor="middle" font-size="10" font-weight="bold" fill="#14532d">Navbar (fixed top)</text>
+    <text x="82" y="220" text-anchor="middle" font-size="11" fill="#15803d">Scroll Content ↓</text>
+    <text x="82" y="345" text-anchor="middle" class="pos-desc" fill="#166534">មិនរំកិលតាម Scroll ឡើយ</text>
+  </g>
+
+  <!-- Sticky -->
+  <g transform="translate(770, 70)">
+    <rect width="165" height="370" rx="10" fill="#ffffff" stroke="#f472b6" stroke-width="2"/>
+    <rect width="165" height="42" rx="10" fill="#fce7f3"/>
+    <text x="82" y="27" text-anchor="middle" class="pos-name" fill="#be185d">sticky</text>
+    <text x="82" y="65" text-anchor="middle" class="pos-desc" font-weight="bold">Relative + Fixed</text>
+    <text x="82" y="85" text-anchor="middle" class="pos-desc">Scroll ដល់ចំណុចទើបជាប់</text>
+    <!-- Visual -->
+    <rect x="15" y="110" width="135" height="200" rx="6" fill="#fdf2f8" stroke="#ec4899" stroke-width="1.5"/>
+    <rect x="25" y="130" width="115" height="25" rx="4" fill="#e2e8f0"/>
+    <rect x="25" y="165" width="115" height="30" rx="4" fill="#fbcfe8" stroke="#db2777"/>
+    <text x="82" y="184" text-anchor="middle" font-size="10" font-weight="bold" fill="#9d174d">Sticky Header</text>
+    <text x="82" y="235" text-anchor="middle" font-size="11" fill="#be185d">Scroll ហួស បិទជាប់ Top</text>
+    <text x="82" y="345" text-anchor="middle" class="pos-desc" fill="#9d174d">កូនកាត់ Relative &amp; Fixed</text>
+  </g>
+</svg>

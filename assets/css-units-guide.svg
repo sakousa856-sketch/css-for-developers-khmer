@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 500" width="100%" height="100%">
+  <defs>
+    <style>
+      .title { font-family: 'Kantumruy Pro', system-ui, sans-serif; font-size: 20px; font-weight: 700; fill: #0f172a; }
+      .subtitle { font-family: 'Kantumruy Pro', system-ui, sans-serif; font-size: 13px; fill: #64748b; }
+      .unit-title { font-family: monospace, system-ui; font-size: 16px; font-weight: 700; }
+      .unit-type { font-family: 'Kantumruy Pro', system-ui, sans-serif; font-size: 11px; font-weight: 700; }
+      .unit-desc { font-family: 'Kantumruy Pro', system-ui, sans-serif; font-size: 12px; fill: #334155; }
+      .unit-formula { font-family: monospace; font-size: 12px; font-weight: 700; }
+      .use-tag { font-family: 'Kantumruy Pro', system-ui, sans-serif; font-size: 11px; font-weight: 600; fill: #047857; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="880" height="500" rx="16" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
+
+  <!-- Header -->
+  <text x="40" y="45" class="title">📏 CSS Units Master Guide (ខ្នាតរង្វាស់ក្នុង CSS)</text>
+  <text x="40" y="70" class="subtitle">ការជ្រើសរើសខ្នាតរង្វាស់ត្រូវ គឺជាអាថ៌កំបាំងនៃការបង្កើត Responsive Web Design ប្រកបដោយវិជ្ជាជីវៈ</text>
+
+  <!-- Left Column: Absolute Units (px) -->
+  <g transform="translate(40, 95)">
+    <rect width="250" height="370" rx="12" fill="#ffffff" stroke="#ef4444" stroke-width="2"/>
+    <rect width="250" height="40" rx="12" fill="#fee2e2"/>
+    <text x="125" y="25" text-anchor="middle" class="unit-title" fill="#991b1b">PX (Pixel)</text>
+    <text x="125" y="60" text-anchor="middle" class="unit-type" fill="#ef4444">🔴 ខ្នាតថេរ (Absolute Unit)</text>
+
+    <!-- Visual Box -->
+    <g transform="translate(20, 75)">
+      <rect width="210" height="85" rx="8" fill="#fff1f2" stroke="#fecdd3"/>
+      <text x="15" y="25" class="unit-desc">ទំហំថេរមិនប្រែប្រួលតាមអេក្រង់</text>
+      <text x="15" y="45" class="unit-formula" fill="#991b1b">1px = 1 Dot លើអេក្រង់</text>
+      <text x="15" y="70" class="unit-desc">មិនរីកតាម Browser Zoom</text>
+    </g>
+
+    <!-- When to use -->
+    <g transform="translate(20, 185)">
+      <text x="0" y="15" font-family="'Kantumruy Pro', sans-serif" font-size="12" font-weight="700" fill="#0f172a">🎯 ពេលណាគួរប្រើ px?</text>
+      <text x="0" y="38" class="unit-desc">• Borders (ឧ. <tspan font-family="monospace">1px solid #ccc</tspan>)</text>
+      <text x="0" y="60" class="unit-desc">• Subtle Box Shadows</text>
+      <text x="0" y="82" class="unit-desc">• គម្លាតតូចៗមិនបាច់រីកធំ</text>
+
+      <rect x="0" y="105" width="210" height="60" rx="6" fill="#fef2f2"/>
+      <text x="10" y="125" font-family="'Kantumruy Pro', sans-serif" font-size="11" font-weight="700" fill="#991b1b">⚠️ ហាមដាច់ខាត:</text>
+      <text x="10" y="145" font-family="'Kantumruy Pro', sans-serif" font-size="10" fill="#7f1d1d">កុំប្រើ px លើ Body Font-size ព្រោះខូច Accessibility</text>
+    </g>
+  </g>
+
+  <!-- Middle Column: Relative to Font (rem vs em) -->
+  <g transform="translate(315, 95)">
+    <rect width="250" height="370" rx="12" fill="#ffffff" stroke="#3b82f6" stroke-width="2"/>
+    <rect width="250" height="40" rx="12" fill="#eff6ff"/>
+    <text x="125" y="25" text-anchor="middle" class="unit-title" fill="#1d4ed8">REM vs EM</text>
+    <text x="125" y="60" text-anchor="middle" class="unit-type" fill="#2563eb">🔵 ខ្នាតធៀបអក្សរ (Font Relative)</text>
+
+    <!-- Visual Box -->
+    <g transform="translate(20, 75)">
+      <rect width="210" height="85" rx="8" fill="#eff6ff" stroke="#bfdbfe"/>
+      <text x="10" y="22" font-family="monospace" font-size="12" font-weight="700" fill="#1e40af">rem: ធៀបនឹង &lt;html&gt; (Root)</text>
+      <text x="10" y="40" font-family="sans-serif" font-size="11" fill="#1e3a8a">1rem = 16px (Default Root)</text>
+      <text x="10" y="62" font-family="monospace" font-size="12" font-weight="700" fill="#7c3aed">em: ធៀបនឹង Parent Font</text>
+      <text x="10" y="78" font-family="sans-serif" font-size="10" fill="#4c1d95">1.5em = 1.5 × Parent Font</text>
+    </g>
+
+    <!-- When to use -->
+    <g transform="translate(20, 185)">
+      <text x="0" y="15" font-family="'Kantumruy Pro', sans-serif" font-size="12" font-weight="700" fill="#0f172a">🎯 ពេលណាគួរប្រើ?</text>
+      <text x="0" y="38" class="use-tag">⭐ rem (ស្តង់ដារលេខ ១):</text>
+      <text x="0" y="58" class="unit-desc">Typography, Margins, Paddings</text>
+      <text x="0" y="80" class="use-tag">⭐ em (ករណីពិសេស):</text>
+      <text x="0" y="100" class="unit-desc">Icons ឬ Buttons ដែលចង់ឱ្យរីកទំហំស្វ័យប្រវត្តិតាមទំហំអក្សរ</text>
+      <rect x="0" y="125" width="210" height="40" rx="6" fill="#ecfdf5"/>
+      <text x="10" y="148" font-family="'Kantumruy Pro', sans-serif" font-size="11" font-weight="700" fill="#065f46">✅ Best Practice ក្នុងឧស្សាហកម្ម</text>
+    </g>
+  </g>
+
+  <!-- Right Column: Viewport & Percentage (% vs vw/vh) -->
+  <g transform="translate(590, 95)">
+    <rect width="250" height="370" rx="12" fill="#ffffff" stroke="#10b981" stroke-width="2"/>
+    <rect width="250" height="40" rx="12" fill="#d1fae5"/>
+    <text x="125" y="25" text-anchor="middle" class="unit-title" fill="#047857">% &amp; VW / VH</text>
+    <text x="125" y="60" text-anchor="middle" class="unit-type" fill="#059669">🟢 ខ្នាតធៀបអេក្រង់ (Fluid Units)</text>
+
+    <!-- Visual Box -->
+    <g transform="translate(20, 75)">
+      <rect width="210" height="85" rx="8" fill="#ecfdf5" stroke="#a7f3d0"/>
+      <text x="10" y="22" font-family="monospace" font-size="12" font-weight="700" fill="#065f46">%: ធៀបនឹង Parent Width</text>
+      <text x="10" y="40" font-family="sans-serif" font-size="11" fill="#064e3b">50% = ពាក់កណ្តាល Parent</text>
+      <text x="10" y="62" font-family="monospace" font-size="12" font-weight="700" fill="#065f46">vw/vh: ធៀបនឹង Viewport</text>
+      <text x="10" y="78" font-family="sans-serif" font-size="10" fill="#064e3b">100vh = ពេញកម្ពស់អេក្រង់</text>
+    </g>
+
+    <!-- When to use -->
+    <g transform="translate(20, 185)">
+      <text x="0" y="15" font-family="'Kantumruy Pro', sans-serif" font-size="12" font-weight="700" fill="#0f172a">🎯 ពេលណាគួរប្រើ?</text>
+      <text x="0" y="38" class="use-tag">⭐ % (Percentage):</text>
+      <text x="0" y="58" class="unit-desc">Grid Columns, Responsive Cards</text>
+      <text x="0" y="80" class="use-tag">⭐ 100vh / 100dvh:</text>
+      <text x="0" y="100" class="unit-desc">Hero Section, Fullscreen Banners</text>
+      <text x="0" y="122" class="use-tag">⭐ 100vw:</text>
+      <text x="0" y="142" class="unit-desc">Full-width Background Strips</text>
+    </g>
+  </g>
+</svg>

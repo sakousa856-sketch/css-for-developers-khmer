@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 380" width="100%" height="100%">
+  <defs>
+    <style>
+      .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 20px; font-weight: bold; fill: #1e293b; }
+      .code-large { font-family: "SF Mono", Menlo, Consolas, monospace; font-size: 26px; font-weight: bold; fill: #0f172a; }
+      .code-kw { fill: #2563eb; }
+      .code-prop { fill: #d97706; }
+      .code-val { fill: #16a34a; }
+      .code-punc { fill: #64748b; }
+      .note-title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 13px; font-weight: bold; }
+      .note-desc { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 11px; fill: #475569; }
+    </style>
+  </defs>
+
+  <rect width="850" height="380" rx="16" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="425" y="40" text-anchor="middle" class="title">📐 CSS Rule-Set & Syntax Anatomy</text>
+
+  <!-- Code Box Container -->
+  <rect x="60" y="80" width="730" height="110" rx="12" fill="#1e293b"/>
+
+  <!-- Code Text -->
+  <text x="90" y="145" class="code-large">
+    <tspan class="code-kw" fill="#60a5fa">h1</tspan>
+    <tspan class="code-punc" fill="#94a3b8"> {</tspan>
+    <tspan class="code-prop" fill="#fbbf24"> color</tspan><tspan class="code-punc" fill="#94a3b8">:</tspan>
+    <tspan class="code-val" fill="#4ade80"> blue</tspan><tspan class="code-punc" fill="#94a3b8">;</tspan>
+    <tspan class="code-prop" fill="#fbbf24"> font-size</tspan><tspan class="code-punc" fill="#94a3b8">:</tspan>
+    <tspan class="code-val" fill="#4ade80"> 24px</tspan><tspan class="code-punc" fill="#94a3b8">; }</tspan>
+  </text>
+
+  <!-- Annotations below -->
+  <!-- Selector -->
+  <path d="M 105 195 L 105 240" stroke="#3b82f6" stroke-width="2" marker-end="none"/>
+  <circle cx="105" cy="195" r="4" fill="#3b82f6"/>
+  <rect x="40" y="240" width="130" height="85" rx="8" fill="#dbeafe" stroke="#3b82f6" stroke-width="1.5"/>
+  <text x="105" y="265" text-anchor="middle" class="note-title" fill="#1d4ed8">Selector</text>
+  <text x="105" y="285" text-anchor="middle" class="note-desc">ចង្អុលបង្ហាញ HTML</text>
+  <text x="105" y="303" text-anchor="middle" class="note-desc">element ដែលត្រូវ Style</text>
+
+  <!-- Declaration Block -->
+  <path d="M 500 195 L 500 240" stroke="#8b5cf6" stroke-width="2"/>
+  <circle cx="500" cy="195" r="4" fill="#8b5cf6"/>
+  <rect x="230" y="240" width="550" height="95" rx="8" fill="#f3e8ff" stroke="#8b5cf6" stroke-width="1.5"/>
+  <text x="500" y="265" text-anchor="middle" class="note-title" fill="#6d28d9">Declaration Block { ... }</text>
+
+  <!-- Property -->
+  <rect x="250" y="280" width="150" height="45" rx="6" fill="#fef3c7" stroke="#d97706" stroke-width="1"/>
+  <text x="325" y="298" text-anchor="middle" class="note-title" fill="#b45309">Property (លក្ខណៈ)</text>
+  <text x="325" y="314" text-anchor="middle" class="note-desc">ឧ. color, font-size</text>
+
+  <text x="420" y="305" text-anchor="middle" font-weight="bold" fill="#64748b">:</text>
+
+  <!-- Value -->
+  <rect x="440" y="280" width="150" height="45" rx="6" fill="#dcfce7" stroke="#16a34a" stroke-width="1"/>
+  <text x="515" y="298" text-anchor="middle" class="note-title" fill="#15803d">Value (តម្លៃ)</text>
+  <text x="515" y="314" text-anchor="middle" class="note-desc">ឧ. blue, 24px</text>
+
+  <text x="610" y="305" text-anchor="middle" font-weight="bold" fill="#64748b">;</text>
+
+  <!-- Semicolon note -->
+  <rect x="630" y="280" width="130" height="45" rx="6" fill="#fee2e2" stroke="#ef4444" stroke-width="1"/>
+  <text x="695" y="298" text-anchor="middle" class="note-title" fill="#b91c1c">Semicolon (;)</text>
+  <text x="695" y="314" text-anchor="middle" class="note-desc">បិទបន្ទាត់ Declaration</text>
+</svg>

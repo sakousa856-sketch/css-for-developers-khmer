@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="km">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Demo 01: CSS Basics & Box Model</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Kantumruy+Pro:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    /* 1. Global Box-Sizing Reset */
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Kantumruy Pro', sans-serif;
+      background-color: #f8fafc;
+      color: #334155;
+      padding: 40px 20px;
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 850px;
+      margin: 0 auto;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+
+    h1 {
+      color: #0f172a;
+      font-size: 2.2rem;
+      margin-bottom: 10px;
+    }
+
+    /* Box Model Architecture Demo */
+    .box-model-visual {
+      background-color: #fed7aa; /* Margin Area (Orange) */
+      border: 2px dashed #ea580c;
+      padding: 30px;
+      border-radius: 16px;
+      margin-bottom: 30px;
+    }
+
+    .border-layer {
+      background-color: #fef08a; /* Border Area (Yellow) */
+      border: 4px solid #ca8a04;
+      padding: 25px;
+      border-radius: 12px;
+    }
+
+    .padding-layer {
+      background-color: #bbf7d0; /* Padding Area (Green) */
+      border: 2px solid #16a34a;
+      padding: 25px;
+      border-radius: 8px;
+    }
+
+    .content-layer {
+      background-color: #93c5fd; /* Content Area (Blue) */
+      border: 2px solid #2563eb;
+      padding: 20px;
+      border-radius: 6px;
+      text-align: center;
+      color: #1e3a8a;
+      font-weight: 600;
+    }
+
+    .legend-card {
+      background: white;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+      border: 1px solid #e2e8f0;
+    }
+
+    .legend-item {
+      display: inline-block;
+      margin-right: 20px;
+      font-size: 14px;
+    }
+
+    .color-dot {
+      display: inline-block;
+      width: 14px;
+      height: 14px;
+      border-radius: 4px;
+      margin-right: 6px;
+      vertical-align: middle;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <header>
+      <h1>📦 CSS Box Model Interactive Visual</h1>
+      <p>ស្វែងយល់ពីស្រទាប់ទាំង ៤ នៃ Box Model (Content, Padding, Border, Margin)</p>
+    </header>
+
+    <div class="box-model-visual">
+      <div style="font-size: 13px; font-weight: bold; color: #9a3412; margin-bottom: 8px;">MARGIN (គម្លាតខាងក្រៅ)</div>
+      
+      <div class="border-layer">
+        <div style="font-size: 13px; font-weight: bold; color: #854d0e; margin-bottom: 8px;">BORDER (បន្ទាត់ព្រំដែន)</div>
+        
+        <div class="padding-layer">
+          <div style="font-size: 13px; font-weight: bold; color: #166534; margin-bottom: 8px;">PADDING (គម្លាតខាងក្នុង)</div>
+          
+          <div class="content-layer">
+            <h3>CONTENT (មាតិកា)</h3>
+            <p>អត្ថបទ រូបភាព និងទិន្នន័យជាក់ស្តែង (width × height)</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="legend-card">
+      <div class="legend-item"><span class="color-dot" style="background:#93c5fd;"></span> <strong>Content</strong> (ខៀវ)</div>
+      <div class="legend-item"><span class="color-dot" style="background:#bbf7d0;"></span> <strong>Padding</strong> (បៃតង)</div>
+      <div class="legend-item"><span class="color-dot" style="background:#fef08a;"></span> <strong>Border</strong> (លឿង)</div>
+      <div class="legend-item"><span class="color-dot" style="background:#fed7aa;"></span> <strong>Margin</strong> (ទឹកក្រូច)</div>
+    </div>
+  </div>
+
+</body>
+</html>

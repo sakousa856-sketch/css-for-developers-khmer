@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 480" width="100%" height="100%">
+  <defs>
+    <style>
+      .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 20px; font-weight: bold; fill: #1e293b; }
+      .grid-label { font-family: "SF Mono", Menlo, Consolas, monospace; font-size: 13px; font-weight: bold; }
+      .line-num { font-family: "SF Mono", Menlo, Consolas, monospace; font-size: 12px; fill: #ef4444; font-weight: bold; }
+      .desc { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 12px; fill: #475569; }
+    </style>
+  </defs>
+
+  <rect width="880" height="480" rx="16" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="440" y="38" text-anchor="middle" class="title">🪟 CSS Grid Anatomy: Tracks, Lines, Cells &amp; Areas</text>
+
+  <!-- Column Line Numbers (Top) -->
+  <text x="140" y="75" text-anchor="middle" class="line-num">Line 1</text>
+  <text x="340" y="75" text-anchor="middle" class="line-num">Line 2</text>
+  <text x="540" y="75" text-anchor="middle" class="line-num">Line 3</text>
+  <text x="740" y="75" text-anchor="middle" class="line-num">Line 4</text>
+
+  <!-- Row Line Numbers (Left) -->
+  <text x="90" y="145" text-anchor="middle" class="line-num">Line 1</text>
+  <text x="90" y="265" text-anchor="middle" class="line-num">Line 2</text>
+  <text x="90" y="385" text-anchor="middle" class="line-num">Line 3</text>
+
+  <!-- Grid Container Outer -->
+  <rect x="140" y="90" width="600" height="320" rx="10" fill="#f1f5f9" stroke="#94a3b8" stroke-width="2" stroke-dasharray="4,4"/>
+
+  <!-- Row 1: Header (Spans all columns) -->
+  <rect x="150" y="100" width="580" height="85" rx="8" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
+  <text x="440" y="140" text-anchor="middle" class="grid-label" fill="#1e40af">Header (grid-column: 1 / -1)</text>
+  <text x="440" y="160" text-anchor="middle" class="desc">Grid Area: header</text>
+
+  <!-- Row 2: Sidebar -->
+  <rect x="150" y="200" width="180" height="195" rx="8" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
+  <text x="240" y="295" text-anchor="middle" class="grid-label" fill="#92400e">Sidebar</text>
+  <text x="240" y="320" text-anchor="middle" class="desc">1fr</text>
+
+  <!-- Row 2: Main Content -->
+  <rect x="345" y="200" width="225" height="195" rx="8" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+  <text x="457" y="295" text-anchor="middle" class="grid-label" fill="#15803d">Main Content</text>
+  <text x="457" y="320" text-anchor="middle" class="desc">2fr</text>
+
+  <!-- Row 2: Aside -->
+  <rect x="585" y="200" width="145" height="195" rx="8" fill="#fce7f3" stroke="#db2777" stroke-width="2"/>
+  <text x="657" y="295" text-anchor="middle" class="grid-label" fill="#9d174d">Aside</text>
+  <text x="657" y="320" text-anchor="middle" class="desc">1fr</text>
+
+  <!-- Footer explanation note -->
+  <rect x="140" y="425" width="600" height="35" rx="6" fill="#eff6ff"/>
+  <text x="440" y="448" text-anchor="middle" class="desc" fill="#1e40af">
+    💡 CSS Grid គឺជា <tspan font-weight="bold">2-Dimensional Layout System</tspan> គ្រប់គ្រងទាំងជួរដេក (Rows) និងជួរឈរ (Columns) ក្នុងពេលតែមួយ!
+  </text>
+</svg>

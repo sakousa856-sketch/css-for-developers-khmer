@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 500" width="100%" height="100%">
+  <defs>
+    <style>
+      .title { font-family: 'Kantumruy Pro', system-ui, sans-serif; font-size: 20px; font-weight: 700; fill: #0f172a; }
+      .subtitle { font-family: 'Kantumruy Pro', system-ui, sans-serif; font-size: 13px; fill: #64748b; }
+      .card-title { font-family: monospace, system-ui; font-size: 15px; font-weight: 700; fill: #1e293b; }
+      .tag { font-family: 'Kantumruy Pro', system-ui, sans-serif; font-size: 11px; font-weight: 600; fill: #475569; }
+      .prop-ok { font-family: 'Kantumruy Pro', system-ui, sans-serif; font-size: 11px; font-weight: 600; fill: #166534; }
+      .prop-no { font-family: 'Kantumruy Pro', system-ui, sans-serif; font-size: 11px; font-weight: 600; fill: #991b1b; }
+      .code-tag { font-family: monospace; font-size: 11px; fill: #2563eb; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="880" height="500" rx="16" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
+
+  <!-- Header -->
+  <text x="40" y="45" class="title">🎭 CSS Display Modes Comparison (ការប្រៀបធៀប Display ទាំង ៤)</text>
+  <text x="40" y="70" class="subtitle">ការយល់ដឹងច្បាស់ពីចរិតលក្ខណៈនៃ display នីមួយៗជួយការពារបញ្ហាកំណត់ width/height មិនដំណើរការ</text>
+
+  <!-- Card 1: Block -->
+  <g transform="translate(40, 95)">
+    <rect width="185" height="370" rx="12" fill="#ffffff" stroke="#3b82f6" stroke-width="2"/>
+    <rect width="185" height="40" rx="12" fill="#eff6ff"/>
+    <text x="92" y="25" text-anchor="middle" class="card-title" fill="#1d4ed8">display: block</text>
+
+    <!-- Visual Box -->
+    <rect x="15" y="55" width="155" height="85" rx="6" fill="#f1f5f9" stroke="#cbd5e1" stroke-dasharray="2,2"/>
+    <rect x="22" y="62" width="141" height="32" rx="4" fill="#3b82f6"/>
+    <text x="92" y="82" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#ffffff" font-weight="600">Takes 100% Width</text>
+    <rect x="22" y="100" width="141" height="32" rx="4" fill="#60a5fa"/>
+    <text x="92" y="120" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#ffffff" font-weight="600">New Line Starts ↵</text>
+
+    <!-- Features -->
+    <g transform="translate(15, 155)">
+      <text x="0" y="15" class="prop-ok">✅ ចុះបន្ទាត់ថ្មីជានិច្ច</text>
+      <text x="0" y="38" class="prop-ok">✅ ទទួល Width &amp; Height</text>
+      <text x="0" y="61" class="prop-ok">✅ ទទួលគ្រប់ Margin/Padding</text>
+      <text x="0" y="84" class="tag">💡 Default នៃ HTML:</text>
+      <text x="0" y="104" class="code-tag">&lt;div&gt;, &lt;p&gt;, &lt;h1-h6&gt;, &lt;section&gt;</text>
+    </g>
+  </g>
+
+  <!-- Card 2: Inline -->
+  <g transform="translate(245, 95)">
+    <rect width="185" height="370" rx="12" fill="#ffffff" stroke="#f59e0b" stroke-width="2"/>
+    <rect width="185" height="40" rx="12" fill="#fef3c7"/>
+    <text x="92" y="25" text-anchor="middle" class="card-title" fill="#b45309">display: inline</text>
+
+    <!-- Visual Box -->
+    <rect x="15" y="55" width="155" height="85" rx="6" fill="#f1f5f9" stroke="#cbd5e1" stroke-dasharray="2,2"/>
+    <rect x="20" y="75" width="65" height="30" rx="4" fill="#f59e0b"/>
+    <text x="52" y="94" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#ffffff" font-weight="600">Item 1</text>
+    <rect x="90" y="75" width="75" height="30" rx="4" fill="#fbbf24"/>
+    <text x="127" y="94" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#ffffff" font-weight="600">Item 2 →</text>
+
+    <!-- Features -->
+    <g transform="translate(15, 155)">
+      <text x="0" y="15" class="prop-ok">✅ រត់តម្រៀបជួរដេកតែមួយ</text>
+      <text x="0" y="38" class="prop-no">❌ មិនស្គាល់ Width &amp; Height</text>
+      <text x="0" y="61" class="prop-no">❌ មិនស្គាល់ Margin លើ/ក្រោម</text>
+      <text x="0" y="84" class="tag">💡 Default នៃ HTML:</text>
+      <text x="0" y="104" class="code-tag">&lt;span&gt;, &lt;a&gt;, &lt;strong&gt;, &lt;em&gt;</text>
+    </g>
+  </g>
+
+  <!-- Card 3: Inline-Block -->
+  <g transform="translate(450, 95)">
+    <rect width="185" height="370" rx="12" fill="#ffffff" stroke="#10b981" stroke-width="2"/>
+    <rect width="185" height="40" rx="12" fill="#d1fae5"/>
+    <text x="92" y="25" text-anchor="middle" class="card-title" fill="#047857">inline-block</text>
+
+    <!-- Visual Box -->
+    <rect x="15" y="55" width="155" height="85" rx="6" fill="#f1f5f9" stroke="#cbd5e1" stroke-dasharray="2,2"/>
+    <rect x="20" y="68" width="65" height="58" rx="4" fill="#10b981"/>
+    <text x="52" y="95" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#ffffff" font-weight="600">W: 65px</text>
+    <text x="52" y="110" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#ffffff">H: 58px</text>
+    <rect x="90" y="68" width="75" height="58" rx="4" fill="#34d399"/>
+    <text x="127" y="95" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#ffffff" font-weight="600">W: 75px</text>
+    <text x="127" y="110" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#ffffff">H: 58px</text>
+
+    <!-- Features -->
+    <g transform="translate(15, 155)">
+      <text x="0" y="15" class="prop-ok">✅ រត់ជួរដេក (ដូច Inline)</text>
+      <text x="0" y="38" class="prop-ok">✅ ស្គាល់ Width &amp; Height</text>
+      <text x="0" y="61" class="prop-ok">✅ ស្គាល់គ្រប់ Margins</text>
+      <text x="0" y="84" class="tag">💡 ពេញនិយមសម្រាប់:</text>
+      <text x="0" y="104" class="code-tag">Buttons, Badges, Cards</text>
+    </g>
+  </g>
+
+  <!-- Card 4: None -->
+  <g transform="translate(655, 95)">
+    <rect width="185" height="370" rx="12" fill="#ffffff" stroke="#64748b" stroke-width="2"/>
+    <rect width="185" height="40" rx="12" fill="#f1f5f9"/>
+    <text x="92" y="25" text-anchor="middle" class="card-title" fill="#334155">display: none</text>
+
+    <!-- Visual Box -->
+    <rect x="15" y="55" width="155" height="85" rx="6" fill="#f1f5f9" stroke="#cbd5e1" stroke-dasharray="2,2"/>
+    <line x1="30" y1="70" x2="155" y2="125" stroke="#ef4444" stroke-width="2"/>
+    <line x1="155" y1="70" x2="30" y2="125" stroke="#ef4444" stroke-width="2"/>
+    <text x="92" y="103" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#ef4444" font-weight="700">HIDDEN</text>
+
+    <!-- Features -->
+    <g transform="translate(15, 155)">
+      <text x="0" y="15" class="prop-no">❌ បាត់ទាំងស្រុងពីអេក្រង់</text>
+      <text x="0" y="38" class="prop-no">❌ មិនទុកលំហទំនេរ (0px)</text>
+      <text x="0" y="61" class="tag">💡 ខុសពី visibility:hidden:</text>
+      <text x="0" y="80" font-family="'Kantumruy Pro', sans-serif" font-size="10" fill="#64748b">visibility:hidden លាក់តែរូប តែនៅរក្សាទំហំទំនេរ</text>
+      <text x="0" y="104" class="code-tag">Mobile Menus, Tabs</text>
+    </g>
+  </g>
+</svg>

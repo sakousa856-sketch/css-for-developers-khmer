@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="km">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Demo 02: Typography & Buttons</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Kantumruy+Pro:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Kantumruy Pro', sans-serif;
+      background-color: #f8fafc;
+      color: #1e293b;
+      padding: 40px 20px;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
+    .card {
+      background: white;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+      border: 1px solid #e2e8f0;
+      margin-bottom: 30px;
+    }
+
+    /* Typography */
+    h1 { font-size: 2.2rem; margin-bottom: 12px; color: #0f172a; }
+    h2 { font-size: 1.5rem; margin-bottom: 10px; color: #1e3a8a; }
+    p  { font-size: 1rem; line-height: 1.7; color: #475569; margin-bottom: 16px; }
+
+    /* Button Variants */
+    .btn-group {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 10px 20px;
+      font-size: 15px;
+      font-weight: 600;
+      border-radius: 6px;
+      text-decoration: none;
+      cursor: pointer;
+      border: 1px solid transparent;
+      transition: all 0.2s ease;
+    }
+
+    .btn-primary {
+      background-color: #2563eb;
+      color: white;
+    }
+    .btn-primary:hover {
+      background-color: #1d4ed8;
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(37, 99, 235, 0.25);
+    }
+
+    .btn-secondary {
+      background-color: #e2e8f0;
+      color: #334155;
+    }
+    .btn-secondary:hover {
+      background-color: #cbd5e1;
+    }
+
+    .btn-outline {
+      background-color: transparent;
+      border-color: #2563eb;
+      color: #2563eb;
+    }
+    .btn-outline:hover {
+      background-color: #eff6ff;
+    }
+
+    .btn-danger {
+      background-color: #dc2626;
+      color: white;
+    }
+    .btn-danger:hover {
+      background-color: #b91c1c;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <div class="card">
+      <h1>🎨 Typography &amp; UI Buttons</h1>
+      <p>
+        Typography និងប៊ូតុងដែលមាន Design System ច្បាស់លាស់ ជួយឱ្យគេហទំព័រមើលទៅទាន់សម័យ និងមានភាពងាយស្រួលប្រើប្រាស់។
+      </p>
+
+      <h2>បណ្តុំប៊ូតុង (Button Components)</h2>
+      <div class="btn-group">
+        <button class="btn btn-primary">Primary Action</button>
+        <button class="btn btn-secondary">Secondary</button>
+        <button class="btn btn-outline">Outline Button</button>
+        <button class="btn btn-danger">Delete Action</button>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>

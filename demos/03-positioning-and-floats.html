@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="km">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Demo 03: Positioning & Layouts</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Kantumruy+Pro:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Kantumruy Pro', sans-serif;
+      background-color: #f1f5f9;
+      color: #1e293b;
+      padding-bottom: 80px;
+    }
+
+    /* Sticky Navbar */
+    .sticky-nav {
+      position: sticky;
+      top: 0;
+      background: #0f172a;
+      color: white;
+      padding: 15px 30px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      z-index: 100;
+      box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
+    }
+
+    .container {
+      max-width: 850px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+
+    /* Relative Container with Absolute Badges */
+    .card-relative {
+      position: relative;
+      background: white;
+      padding: 30px;
+      border-radius: 12px;
+      border: 1px solid #cbd5e1;
+      margin-bottom: 30px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+    }
+
+    .badge-absolute {
+      position: absolute;
+      top: -12px;
+      right: 20px;
+      background-color: #dc2626;
+      color: white;
+      padding: 6px 14px;
+      font-size: 12px;
+      font-weight: bold;
+      border-radius: 20px;
+      box-shadow: 0 2px 6px rgba(220, 38, 38, 0.3);
+    }
+
+    /* Fixed Floating Chat */
+    .fixed-chat {
+      position: fixed;
+      bottom: 25px;
+      right: 25px;
+      background-color: #2563eb;
+      color: white;
+      padding: 14px 22px;
+      border-radius: 50px;
+      box-shadow: 0 10px 20px rgba(37, 99, 235, 0.3);
+      cursor: pointer;
+      font-weight: bold;
+      z-index: 1000;
+      transition: transform 0.2s;
+    }
+    .fixed-chat:hover {
+      transform: scale(1.05);
+    }
+  </style>
+</head>
+<body>
+
+  <nav class="sticky-nav">
+    <h3>📍 Sticky Navigation Bar</h3>
+    <span>(សាកល្បង Scroll ចុះក្រោម)</span>
+  </nav>
+
+  <div class="container">
+    <div class="card-relative">
+      <div class="badge-absolute">HOT PROMO</div>
+      <h2>Relative Parent + Absolute Child</h2>
+      <p>កាតនេះមាន <code>position: relative</code> ហើយ Badge ពណ៌ក្រហមមាន <code>position: absolute; top: -12px; right: 20px;</code>។</p>
+    </div>
+
+    <div class="card-relative">
+      <h2>មាតិកាបន្ថែម</h2>
+      <p>Scroll ចុះមកក្រោមដើម្បីមើលឃើញ Sticky Navbar ជាប់នៅផ្នែកខាងលើ និង Fixed Chat Button នៅជ្រុងខាងក្រោមស្តាំជាប់រហូត។</p>
+      <div style="height: 600px;"></div>
+    </div>
+  </div>
+
+  <div class="fixed-chat">💬 Live Chat Support</div>
+
+</body>
+</html>

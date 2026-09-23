@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="km">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Demo 06: Responsive Landing Page</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Kantumruy+Pro:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Kantumruy Pro', sans-serif;
+      background-color: #ffffff;
+      color: #0f172a;
+      line-height: 1.6;
+    }
+
+    /* Standard Container */
+    .container {
+      width: 100%;
+      max-width: 1140px;
+      margin: 0 auto;
+      padding: 0 20px;
+    }
+
+    /* Navbar */
+    .header-nav {
+      background: #ffffff;
+      border-bottom: 1px solid #e2e8f0;
+      padding: 15px 0;
+    }
+
+    .nav-wrapper {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .nav-links {
+      display: flex;
+      gap: 24px;
+      list-style: none;
+    }
+
+    .nav-links a {
+      text-decoration: none;
+      color: #475569;
+      font-weight: 500;
+    }
+
+    /* Hero Section */
+    .hero {
+      padding: clamp(40px, 8vw, 100px) 0;
+      background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
+      text-align: center;
+    }
+
+    .hero-title {
+      font-size: clamp(2rem, 5vw, 3.5rem);
+      font-weight: 700;
+      color: #0f172a;
+      line-height: 1.2;
+      margin-bottom: 20px;
+    }
+
+    .hero-subtitle {
+      font-size: clamp(1rem, 2vw, 1.25rem);
+      color: #475569;
+      max-width: 600px;
+      margin: 0 auto 30px auto;
+    }
+
+    .btn-cta {
+      display: inline-block;
+      background-color: #2563eb;
+      color: white;
+      padding: 14px 32px;
+      font-size: 16px;
+      font-weight: 600;
+      border-radius: 8px;
+      text-decoration: none;
+      box-shadow: 0 4px 15px rgba(37, 99, 235, 0.3);
+      transition: transform 0.2s, background-color 0.2s;
+    }
+
+    .btn-cta:hover {
+      background-color: #1d4ed8;
+      transform: translateY(-2px);
+    }
+  </style>
+</head>
+<body>
+
+  <header class="header-nav">
+    <div class="container nav-wrapper">
+      <h2>🚀 WebMaster</h2>
+      <ul class="nav-links">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Features</a></li>
+        <li><a href="#">Pricing</a></li>
+      </ul>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container">
+      <h1 class="hero-title">រៀនបង្កើតគេហទំព័រទំនើបជាមួយ CSS</h1>
+      <p class="hero-subtitle">
+        កសាងប្លង់គេហទំព័រដែលឆ្លើយតបលើគ្រប់ឧបករណ៍ (Responsive Design) ជាមួយ Flexbox, CSS Grid និង Modern Features។
+      </p>
+      <a href="#" class="btn-cta">ចាប់ផ្តើមរៀនឥឡូវនេះ</a>
+    </div>
+  </section>
+
+</body>
+</html>

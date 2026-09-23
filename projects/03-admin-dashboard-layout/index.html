@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="km" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Admin Dashboard Layout</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Kantumruy+Pro:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="dashboard-grid">
+    
+    <!-- Sidebar -->
+    <aside class="sidebar">
+      <div class="brand">⚡ Antigravity CSS</div>
+      <ul class="side-menu">
+        <li><a href="#" class="active">📊 Overview</a></li>
+        <li><a href="#">👥 Students</a></li>
+        <li><a href="#">📚 Courses</a></li>
+        <li><a href="#">💳 Transactions</a></li>
+        <li><a href="#">⚙️ Settings</a></li>
+      </ul>
+    </aside>
+
+    <!-- Header -->
+    <header class="header">
+      <div class="header-search">
+        🔍 <input type="text" placeholder="ស្វែងរកទិន្នន័យ...">
+      </div>
+      <div class="header-profile">
+        <button class="theme-toggle" onclick="toggleTheme()" title="Toggle Dark/Light Mode">🌓 Theme</button>
+        <span class="user-name">Admin Instructor</span>
+      </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main">
+      <div class="page-title">
+        <h2>ផ្ទាំងវិភាគ និងគ្រប់គ្រងសិស្ស</h2>
+        <button class="btn-action">+ បន្ថែមវគ្គសិក្សាថ្មី</button>
+      </div>
+
+      <!-- Stat Widgets Grid -->
+      <div class="stats-grid">
+        <div class="stat-card">
+          <div class="stat-header">
+            <span>សិស្សសរុប</span>
+            <span class="trend up">+14% ↑</span>
+          </div>
+          <div class="stat-number">2,840</div>
+        </div>
+
+        <div class="stat-card">
+          <div class="stat-header">
+            <span>ចំណូលប្រចាំខែ</span>
+            <span class="trend up">+22% ↑</span>
+          </div>
+          <div class="stat-number">$18,450</div>
+        </div>
+
+        <div class="stat-card">
+          <div class="stat-header">
+            <span>អត្រាបញ្ចប់មេរៀន</span>
+            <span class="trend down">-2% ↓</span>
+          </div>
+          <div class="stat-number">89.4%</div>
+        </div>
+
+        <div class="stat-card">
+          <div class="stat-header">
+            <span>វគ្គសិក្សាសកម្ម</span>
+            <span class="trend up">+4 វគ្គ</span>
+          </div>
+          <div class="stat-number">12</div>
+        </div>
+      </div>
+
+      <!-- Recent Table Card -->
+      <div class="table-card">
+        <h3>បញ្ជីសិស្សទើបចុះឈ្មោះថ្មីៗ</h3>
+        <div class="table-responsive">
+          <table>
+            <thead>
+              <tr>
+                <th>ឈ្មោះសិស្ស</th>
+                <th>វគ្គសិក្សា</th>
+                <th>កាលបរិច្ឆេទ</th>
+                <th>ស្ថានភាព</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td><strong>សុខ វិបុល</strong></td>
+                <td>CSS Master Course</td>
+                <td>23 កញ្ញា 2026</td>
+                <td><span class="badge success">បានបង់ប្រាក់</span></td>
+              </tr>
+              <tr>
+                <td><strong>កែវ ចិន្តា</strong></td>
+                <td>HTML5 Full Course</td>
+                <td>23 កញ្ញា 2026</td>
+                <td><span class="badge success">បានបង់ប្រាក់</span></td>
+              </tr>
+              <tr>
+                <td><strong>លី វណ្ណា</strong></td>
+                <td>JavaScript &amp; React</td>
+                <td>22 កញ្ញា 2026</td>
+                <td><span class="badge pending">រង់ចាំផ្ទៀងផ្ទាត់</span></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <p>© 2026 Admin Dashboard Portal. Built with CSS Grid, Flexbox &amp; CSS Variables.</p>
+    </footer>
+
+  </div>
+
+  <script>
+    function toggleTheme() {
+      const html = document.documentElement;
+      const theme = html.getAttribute('data-theme');
+      html.setAttribute('data-theme', theme === 'dark' ? 'light' : 'dark');
+    }
+  </script>
+
+</body>
+</html>

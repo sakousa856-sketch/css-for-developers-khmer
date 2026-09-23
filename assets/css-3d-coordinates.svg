@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 500" width="100%" height="100%">
+  <defs>
+    <style>
+      .title { font-family: 'Kantumruy Pro', system-ui, sans-serif; font-size: 20px; font-weight: 700; fill: #0f172a; }
+      .subtitle { font-family: 'Kantumruy Pro', system-ui, sans-serif; font-size: 13px; fill: #64748b; }
+      .axis-label { font-family: monospace, system-ui; font-size: 15px; font-weight: 700; }
+      .axis-desc { font-family: 'Kantumruy Pro', system-ui, sans-serif; font-size: 12px; fill: #475569; }
+      .card-title { font-family: 'Kantumruy Pro', system-ui, sans-serif; font-size: 14px; font-weight: 700; fill: #0f172a; }
+      .code-func { font-family: monospace; font-size: 13px; font-weight: 700; }
+    </style>
+    <marker id="arrowRed" markerWidth="8" markerHeight="8" refX="5" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L6,3 z" fill="#ef4444" />
+    </marker>
+    <marker id="arrowGreen" markerWidth="8" markerHeight="8" refX="5" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L6,3 z" fill="#10b981" />
+    </marker>
+    <marker id="arrowBlue" markerWidth="8" markerHeight="8" refX="5" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L6,3 z" fill="#3b82f6" />
+    </marker>
+  </defs>
+
+  <!-- Background -->
+  <rect width="840" height="500" rx="16" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
+
+  <!-- Header -->
+  <text x="40" y="45" class="title">🧊 CSS 3D Coordinate Space &amp; Transforms (ប្រព័ន្ធកូអរដោណេ 3D)</text>
+  <text x="40" y="70" class="subtitle">ការយល់ដឹងពីអ័ក្ស X, Y, Z និង Perspective ជួយឱ្យយើងបង្កើតចលនា 3D Card Flip និង Cube បានយ៉ាងរលូន</text>
+
+  <!-- Left: 3D Coordinate System Drawing -->
+  <g transform="translate(60, 100)">
+    <!-- Screen plane backdrop -->
+    <polygon points="120,40 380,40 280,240 20,240" fill="#e2e8f0" fill-opacity="0.4" stroke="#94a3b8" stroke-dasharray="3,3"/>
+    <text x="200" y="65" text-anchor="middle" font-family="'Kantumruy Pro', sans-serif" font-size="11" fill="#64748b">អេក្រង់កុំព្យូទ័រ (Screen Plane)</text>
+
+    <!-- Origin point (Center) -->
+    <circle cx="200" cy="140" r="5" fill="#0f172a"/>
+    <text x="200" y="130" text-anchor="middle" font-family="monospace" font-size="11" font-weight="700" fill="#0f172a">(0, 0, 0)</text>
+
+    <!-- X-Axis (Horizontal) -->
+    <line x1="60" y1="140" x2="350" y2="140" stroke="#ef4444" stroke-width="3" marker-end="url(#arrowRed)"/>
+    <text x="360" y="145" class="axis-label" fill="#ef4444">+X (ស្តាំ)</text>
+
+    <!-- Y-Axis (Vertical Downwards in CSS) -->
+    <line x1="200" y1="50" x2="200" y2="270" stroke="#10b981" stroke-width="3" marker-end="url(#arrowGreen)"/>
+    <text x="210" y="275" class="axis-label" fill="#10b981">+Y (ចុះក្រោម)</text>
+
+    <!-- Z-Axis (Pointing OUT towards User) -->
+    <line x1="270" y1="70" x2="110" y2="230" stroke="#3b82f6" stroke-width="3.5" marker-end="url(#arrowBlue)"/>
+    <text x="50" y="250" class="axis-label" fill="#3b82f6">+Z (ហោះមករកភ្នែក)</text>
+
+    <!-- User Eye Icon -->
+    <g transform="translate(60, 290)">
+      <circle cx="30" cy="20" r="14" fill="#3b82f6" fill-opacity="0.2" stroke="#3b82f6" stroke-width="2"/>
+      <circle cx="30" cy="20" r="6" fill="#1d4ed8"/>
+      <text x="55" y="25" font-family="'Kantumruy Pro', sans-serif" font-size="12" font-weight="700" fill="#1e40af">👁️ ភ្នែកអ្នកមើល (Viewer)</text>
+      <text x="55" y="42" font-family="monospace" font-size="11" fill="#64748b">perspective: 1000px;</text>
+    </g>
+  </g>
+
+  <!-- Right: 3D Transform Functions Breakdown -->
+  <g transform="translate(470, 100)">
+    <rect width="330" height="355" rx="12" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+
+    <g transform="translate(20, 20)">
+      <text x="0" y="15" class="card-title">🚀 អនុគមន៍ 3D Transforms សំខាន់ៗ:</text>
+
+      <!-- RotateX -->
+      <rect x="0" y="30" width="290" height="60" rx="8" fill="#fef2f2"/>
+      <text x="12" y="52" class="code-func" fill="#b91c1c">rotateX(180deg)</text>
+      <text x="12" y="73" class="axis-desc">បង្វិលផ្ងារឡើងលើ/ចុះក្រោម (ដូចក្បាច់ Gymnastic)</text>
+
+      <!-- RotateY -->
+      <rect x="0" y="100" width="290" height="60" rx="8" fill="#ecfdf5"/>
+      <text x="12" y="122" class="code-func" fill="#047857">rotateY(180deg)</text>
+      <text x="12" y="143" class="axis-desc">បង្វិលត្រឡប់ឆ្វេង/ស្តាំ (3D Card Flip ពេញនិយម ⭐)</text>
+
+      <!-- TranslateZ -->
+      <rect x="0" y="170" width="290" height="60" rx="8" fill="#eff6ff"/>
+      <text x="12" y="192" class="code-func" fill="#1d4ed8">translateZ(50px)</text>
+      <text x="12" y="213" class="axis-desc">ទាញ Element ឱ្យហោះផុសមកជិតភ្នែកអ្នកមើល</text>
+
+      <!-- Golden Rule -->
+      <rect x="0" y="240" width="290" height="75" rx="8" fill="#f8fafc" stroke="#cbd5e1"/>
+      <text x="12" y="260" font-family="'Kantumruy Pro', sans-serif" font-size="11" font-weight="700" fill="#0f172a">💡 រូបមន្តមាស 3D Flip Card:</text>
+      <text x="12" y="280" font-family="monospace" font-size="10" fill="#2563eb">parent { perspective: 1000px; }</text>
+      <text x="12" y="298" font-family="monospace" font-size="10" fill="#2563eb">card { transform-style: preserve-3d; }</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="km">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Demo 04: Flexbox Layouts</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Kantumruy+Pro:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Kantumruy Pro', sans-serif;
+      background-color: #f8fafc;
+      color: #0f172a;
+      padding: 30px 20px;
+    }
+
+    .container {
+      max-width: 1000px;
+      margin: 0 auto;
+    }
+
+    h1 {
+      margin-bottom: 25px;
+      text-align: center;
+    }
+
+    /* Flexbox Card Grid */
+    .flex-grid {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      margin-bottom: 40px;
+    }
+
+    .flex-card {
+      flex: 1 1 280px; /* Responsive Flex Basis */
+      background: white;
+      border: 1px solid #e2e8f0;
+      border-radius: 12px;
+      padding: 24px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    .flex-card h3 {
+      color: #2563eb;
+      margin-bottom: 10px;
+    }
+
+    .flex-card p {
+      color: #475569;
+      line-height: 1.6;
+      margin-bottom: 20px;
+    }
+
+    .card-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-top: 1px solid #f1f5f9;
+      padding-top: 15px;
+    }
+
+    .btn-buy {
+      background: #2563eb;
+      color: white;
+      border: none;
+      padding: 8px 16px;
+      border-radius: 6px;
+      font-weight: 600;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <h1>⚡ Flexbox Responsive Card Layout</h1>
+
+    <div class="flex-grid">
+      <div class="flex-card">
+        <div>
+          <h3>Starter Plan</h3>
+          <p>សមស្របសម្រាប់គម្រោងខ្នាតតូច និងអ្នកចាប់ផ្តើមដំបូង។</p>
+        </div>
+        <div class="card-footer">
+          <strong>$9/ខែ</strong>
+          <button class="btn-buy">ជ្រើសរើស</button>
+        </div>
+      </div>
+
+      <div class="flex-card">
+        <div>
+          <h3>Pro Plan</h3>
+          <p>មុខងារពេញលេញសម្រាប់អាជីវកម្មខ្នាតមធ្យម និង Freelancers។</p>
+        </div>
+        <div class="card-footer">
+          <strong>$29/ខែ</strong>
+          <button class="btn-buy">ជ្រើសរើស</button>
+        </div>
+      </div>
+
+      <div class="flex-card">
+        <div>
+          <h3>Enterprise Plan</h3>
+          <p>សុវត្ថិភាពខ្ពស់ និងការគាំទ្រ 24/7 សម្រាប់ក្រុមហ៊ុនធំៗ។</p>
+        </div>
+        <div class="card-footer">
+          <strong>$99/ខែ</strong>
+          <button class="btn-buy">ជ្រើសរើស</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>

@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 420" width="100%" height="100%">
+  <defs>
+    <style>
+      .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 20px; font-weight: bold; fill: #1e293b; }
+      .device-name { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 15px; font-weight: bold; }
+      .code-bp { font-family: "SF Mono", Menlo, Consolas, monospace; font-size: 13px; font-weight: bold; }
+      .desc { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 12px; fill: #475569; }
+    </style>
+  </defs>
+
+  <rect width="950" height="420" rx="16" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="475" y="38" text-anchor="middle" class="title">📱 Responsive Web Design Breakpoints &amp; Mobile-First Strategy</text>
+
+  <!-- Mobile First Default -->
+  <g transform="translate(30, 80)">
+    <rect width="200" height="260" rx="12" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+    <rect width="200" height="40" rx="12" fill="#f1f5f9"/>
+    <text x="100" y="26" text-anchor="middle" class="device-name" fill="#334155">📱 Mobile (Base)</text>
+    <text x="100" y="65" text-anchor="middle" class="code-bp" fill="#64748b">&lt; 640px</text>
+    <text x="100" y="90" text-anchor="middle" class="desc">Default Base Styles</text>
+    <rect x="25" y="115" width="150" height="70" rx="6" fill="#e2e8f0"/>
+    <text x="100" y="155" text-anchor="middle" font-size="12" fill="#475569">1 Column Stack</text>
+    <text x="100" y="225" text-anchor="middle" class="desc" font-weight="bold" fill="#334155">Mobile-First Core</text>
+  </g>
+
+  <!-- Tablet -->
+  <g transform="translate(260, 80)">
+    <rect width="200" height="260" rx="12" fill="#ffffff" stroke="#93c5fd" stroke-width="2"/>
+    <rect width="200" height="40" rx="12" fill="#dbeafe"/>
+    <text x="100" y="26" text-anchor="middle" class="device-name" fill="#1d4ed8">📟 Tablet / Small</text>
+    <text x="100" y="65" text-anchor="middle" class="code-bp" fill="#2563eb">@media (min-width: 640px)</text>
+    <text x="100" y="90" text-anchor="middle" class="desc">Small Tablets &amp; Phablets</text>
+    <g transform="translate(25, 115)">
+      <rect x="0" y="0" width="70" height="70" rx="4" fill="#bfdbfe"/>
+      <rect x="80" y="0" width="70" height="70" rx="4" fill="#bfdbfe"/>
+      <text x="75" y="40" text-anchor="middle" font-size="11" fill="#1e40af">2 Columns</text>
+    </g>
+    <text x="100" y="225" text-anchor="middle" class="desc" font-weight="bold" fill="#1d4ed8">Sm Breakpoint</text>
+  </g>
+
+  <!-- Laptop / Medium -->
+  <g transform="translate(490, 80)">
+    <rect width="200" height="260" rx="12" fill="#ffffff" stroke="#86efac" stroke-width="2"/>
+    <rect width="200" height="40" rx="12" fill="#dcfce7"/>
+    <text x="100" y="26" text-anchor="middle" class="device-name" fill="#15803d">💻 Laptop / Medium</text>
+    <text x="100" y="65" text-anchor="middle" class="code-bp" fill="#16a34a">@media (min-width: 1024px)</text>
+    <text x="100" y="90" text-anchor="middle" class="desc">Laptops &amp; Desktops</text>
+    <g transform="translate(25, 115)">
+      <rect x="0" y="0" width="45" height="70" rx="4" fill="#bbf7d0"/>
+      <rect x="52" y="0" width="45" height="70" rx="4" fill="#bbf7d0"/>
+      <rect x="104" y="0" width="45" height="70" rx="4" fill="#bbf7d0"/>
+      <text x="75" y="40" text-anchor="middle" font-size="10" fill="#166534">3 Columns</text>
+    </g>
+    <text x="100" y="225" text-anchor="middle" class="desc" font-weight="bold" fill="#15803d">Md / Lg Breakpoint</text>
+  </g>
+
+  <!-- Large Desktop -->
+  <g transform="translate(720, 80)">
+    <rect width="200" height="260" rx="12" fill="#ffffff" stroke="#fcd34d" stroke-width="2"/>
+    <rect width="200" height="40" rx="12" fill="#fef3c7"/>
+    <text x="100" y="26" text-anchor="middle" class="device-name" fill="#b45309">🖥️ Large Monitor</text>
+    <text x="100" y="65" text-anchor="middle" class="code-bp" fill="#d97706">@media (min-width: 1280px)</text>
+    <text x="100" y="90" text-anchor="middle" class="desc">High-Res Wide Screens</text>
+    <g transform="translate(25, 115)">
+      <rect x="0" y="0" width="32" height="70" rx="4" fill="#fde68a"/>
+      <rect x="38" y="0" width="32" height="70" rx="4" fill="#fde68a"/>
+      <rect x="76" y="0" width="32" height="70" rx="4" fill="#fde68a"/>
+      <rect x="114" y="0" width="32" height="70" rx="4" fill="#fde68a"/>
+      <text x="73" y="40" text-anchor="middle" font-size="9" fill="#92400e">4 Columns Grid</text>
+    </g>
+    <text x="100" y="225" text-anchor="middle" class="desc" font-weight="bold" fill="#b45309">Xl Breakpoint</text>
+  </g>
+
+  <!-- Bottom Arrow -->
+  <rect x="30" y="360" width="890" height="40" rx="8" fill="#eff6ff" stroke="#bfdbfe"/>
+  <text x="475" y="385" text-anchor="middle" class="desc" fill="#1e40af">
+    🚀 <tspan font-weight="bold">Mobile-First Direction ➔</tspan> សរសេរកូដសម្រាប់ Mobile ជាមុន រួចប្រើ <tspan font-weight="bold">min-width</tspan> ដើម្បីពង្រីក Layout នៅលើអេក្រង់ធំៗជាបន្តបន្ទាប់!
+  </text>
+</svg>

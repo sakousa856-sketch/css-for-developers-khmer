@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="km">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Personal Portfolio - Modern CSS</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Kantumruy+Pro:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Sticky Navbar -->
+  <header class="navbar">
+    <div class="container nav-wrap">
+      <div class="logo">⚡ SokSan.dev</div>
+      <nav>
+        <ul class="nav-links">
+          <li><a href="#about">អំពីខ្ញុំ</a></li>
+          <li><a href="#skills">ជំនាញ</a></li>
+          <li><a href="#projects">ស្នាដៃ</a></li>
+          <li><a href="#contact" class="btn-contact">ទំនាក់ទំនង</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="container hero-content">
+      <div class="hero-text">
+        <span class="badge">👋 ស្វាគមន៍មកកាន់គេហទំព័ររបស់ខ្ញុំ</span>
+        <h1 class="hero-title">ខ្ញុំជា <span class="text-gradient">Frontend Web Developer</span></h1>
+        <p class="hero-desc">
+          មានជំនាញច្បាស់លាស់ក្នុងការបង្កើត Web Applications ទំនើប ស្រស់ស្អាត និង Responsive ជាមួយ HTML5, CSS3, JavaScript, React និង TailwindCSS។
+        </p>
+        <div class="hero-actions">
+          <a href="#projects" class="btn btn-primary">ទស្សនាស្នាដៃ ➔</a>
+          <a href="#contact" class="btn btn-outline">ជួលខ្ញុំ (Hire Me)</a>
+        </div>
+      </div>
+      <div class="hero-visual">
+        <div class="avatar-card">
+          <img src="../../assets/images/avatar-instructor.jpg" alt="Profile" class="avatar-img">
+          <div class="experience-badge">
+            <strong>5+ ឆ្នាំ</strong>
+            <span>បទពិសោធន៍ Coding</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Skills Section -->
+  <section id="skills" class="skills-section">
+    <div class="container">
+      <h2 class="section-title">ជំនាញបច្ចេកវិទ្យា (Core Skills)</h2>
+      <div class="skills-grid">
+        <div class="skill-card">
+          <div class="skill-icon">🌐</div>
+          <h3>HTML5 & Semantic UI</h3>
+          <p>រចនាសម្ព័ន្ធគេហទំព័រត្រឹមត្រូវតាមស្តង់ដារ SEO និង Accessibility (A11y)។</p>
+        </div>
+        <div class="skill-card">
+          <div class="skill-icon">🎨</div>
+          <h3>Modern CSS3</h3>
+          <p>Flexbox, CSS Grid, Responsive Design, Keyframe Animations និង Glassmorphism។</p>
+        </div>
+        <div class="skill-card">
+          <div class="skill-icon">⚡</div>
+          <h3>JavaScript (ES6+)</h3>
+          <p>DOM Manipulation, Async/Await, Fetch APIs, State Management និង Event Loops។</p>
+        </div>
+        <div class="skill-card">
+          <div class="skill-icon">⚛️</div>
+          <h3>React & Next.js</h3>
+          <p>Component Architecture, Hooks, Single Page Apps និង Full-Stack Integration។</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Projects Section -->
+  <section id="projects" class="projects-section">
+    <div class="container">
+      <h2 class="section-title">គម្រោងស្នាដៃថ្មីៗ (Featured Projects)</h2>
+      <div class="projects-grid">
+        <div class="project-card">
+          <img src="../../assets/images/project-store.jpg" alt="Project 1">
+          <div class="project-body">
+            <span class="project-tag">E-Commerce</span>
+            <h3>Modern Online Store</h3>
+            <p>គេហទំព័រទិញទំនិញអនឡាញជាមួយ Shopping Cart និង Dark Mode។</p>
+          </div>
+        </div>
+        <div class="project-card">
+          <img src="../../assets/images/project-crypto.jpg" alt="Project 2">
+          <div class="project-body">
+            <span class="project-tag">Dashboard</span>
+            <h3>Crypto Analytics Dashboard</h3>
+            <p>ផ្ទាំងវិភាគទិន្នន័យរូបិយប័ណ្ណឌីជីថលបែប CSS Grid 2-Dimensional Layout។</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <p>© 2026 Sok San. រក្សាសិទ្ធិគ្រប់យ៉ាង។ កសាងដោយ Pure HTML5 &amp; CSS3។</p>
+    </div>
+  </footer>
+
+</body>
+</html>
