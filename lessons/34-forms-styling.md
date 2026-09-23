@@ -167,8 +167,17 @@ select:focus {
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ៣៣៖ ជម្រើសតាមលក្ខណៈសម្បត្តិ (CSS Attribute Selectors)](33-attribute-selectors.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៣៥៖ ការរាប់លេខស្វ័យប្រវត្តិ (CSS Counters) ➡️](35-counters.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>34</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>៣៤</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](33-attribute-selectors.md) | [01](01-introduction.md) | ... | [32](32-image-gallery.md) | [33](33-attribute-selectors.md) | **[ 34 ]** | [35](35-counters.md) | [36](36-units.md) | ... | [60](60-modern-features.md) | [Next →](35-counters.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

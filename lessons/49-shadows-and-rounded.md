@@ -141,8 +141,17 @@ box-shadow: [offset-x] [offset-y] [blur-radius] [spread-radius] [color] [inset];
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ៤៨៖ RWD: Mobile-First Strategy & Best Practices](48-rwd-mobile-first.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៥០៖ ផលប៉ះពាល់អក្សរ (CSS Text Effects) ➡️](50-text-effects.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>49</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>៤៩</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](48-rwd-mobile-first.md) | [01](01-introduction.md) | ... | [47](47-rwd-images-and-media.md) | [48](48-rwd-mobile-first.md) | **[ 49 ]** | [50](50-text-effects.md) | [51](51-web-fonts.md) | ... | [60](60-modern-features.md) | [Next →](50-text-effects.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

@@ -147,8 +147,17 @@ p {
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ០៧៖ បន្ទាត់ព្រំដែន (CSS Borders)](07-borders.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ០៩៖ គម្លាតខាងក្នុង (CSS Padding) ➡️](09-padding.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>8</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>០៨</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](07-borders.md) | [01](01-introduction.md) | ... | [06](06-backgrounds.md) | [07](07-borders.md) | **[ 08 ]** | [09](09-padding.md) | [10](10-height-and-width.md) | ... | [60](60-modern-features.md) | [Next →](09-padding.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

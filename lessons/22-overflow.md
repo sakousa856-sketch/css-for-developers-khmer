@@ -138,8 +138,17 @@
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ២១៖ ទីតាំងនៃ Element (CSS Position & Z-Index)](21-position.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ២៣៖ ការបណ្តែតធាតុ (CSS Float & Clear) ➡️](23-float-and-clear.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>22</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>២២</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](21-position.md) | [01](01-introduction.md) | ... | [20](20-max-width.md) | [21](21-position.md) | **[ 22 ]** | [23](23-float-and-clear.md) | [24](24-inline-block.md) | ... | [60](60-modern-features.md) | [Next →](23-float-and-clear.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

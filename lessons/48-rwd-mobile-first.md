@@ -99,8 +99,17 @@
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ៤៧៖ RWD: Responsive Images & Media](47-rwd-images-and-media.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៤៩៖ ស្រមោល និងជ្រុងមូល (Rounded Corners & Box Shadows) ➡️](49-shadows-and-rounded.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>48</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>៤៨</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](47-rwd-images-and-media.md) | [01](01-introduction.md) | ... | [46](46-rwd-media-queries.md) | [47](47-rwd-images-and-media.md) | **[ 48 ]** | [49](49-shadows-and-rounded.md) | [50](50-text-effects.md) | ... | [60](60-modern-features.md) | [Next →](49-shadows-and-rounded.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

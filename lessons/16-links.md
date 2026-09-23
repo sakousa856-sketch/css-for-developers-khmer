@@ -158,8 +158,17 @@ a.button-link:active {
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ១៥៖ ការប្រើប្រាស់ Icons (CSS Icons)](15-icons.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ១៧៖ ការកំណត់ Style លើបញ្ជី (CSS Lists) ➡️](17-lists.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>16</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>១៦</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](15-icons.md) | [01](01-introduction.md) | ... | [14](14-fonts.md) | [15](15-icons.md) | **[ 16 ]** | [17](17-lists.md) | [18](18-tables.md) | ... | [60](60-modern-features.md) | [Next →](17-lists.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

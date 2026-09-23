@@ -135,8 +135,17 @@
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ០៩៖ គម្លាតខាងក្នុង (CSS Padding)](09-padding.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ១១៖ គំរូប្រអប់ (CSS Box Model) ➡️](11-box-model.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>10</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>១០</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](09-padding.md) | [01](01-introduction.md) | ... | [08](08-margins.md) | [09](09-padding.md) | **[ 10 ]** | [11](11-box-model.md) | [12](12-outline.md) | ... | [60](60-modern-features.md) | [Next →](11-box-model.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

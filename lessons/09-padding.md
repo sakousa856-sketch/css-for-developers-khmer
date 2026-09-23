@@ -134,8 +134,17 @@ $$\text{Total Width} = 300\text{px} + 25\text{px (left)} + 25\text{px (right)} =
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ០៨៖ គម្លាតខាងក្រៅ (CSS Margins)](08-margins.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ១០៖ កម្ពស់ និងទទឹង (CSS Height, Width & Max-Width) ➡️](10-height-and-width.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>9</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>០៩</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](08-margins.md) | [01](01-introduction.md) | ... | [07](07-borders.md) | [08](08-margins.md) | **[ 09 ]** | [10](10-height-and-width.md) | [11](11-box-model.md) | ... | [60](60-modern-features.md) | [Next →](10-height-and-width.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

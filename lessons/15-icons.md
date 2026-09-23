@@ -136,8 +136,17 @@
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ១៤៖ ពុម្ពអក្សរ (CSS Fonts)](14-fonts.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ១៦៖ ការកំណត់ Style លើ Link (CSS Links) ➡️](16-links.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>15</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>១៥</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](14-fonts.md) | [01](01-introduction.md) | ... | [13](13-text.md) | [14](14-fonts.md) | **[ 15 ]** | [16](16-links.md) | [17](17-lists.md) | ... | [60](60-modern-features.md) | [Next →](16-links.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

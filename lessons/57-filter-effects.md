@@ -119,8 +119,17 @@
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ៥៦៖ Tooltips & Modal Popup បែប Pure CSS](56-tooltips-and-modals.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៥៨៖ Glassmorphism & Frosted Glass Effect ➡️](58-glassmorphism.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>57</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>៥៧</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](56-tooltips-and-modals.md) | [01](01-introduction.md) | ... | [56](56-tooltips-and-modals.md) | **[ 57 ]** | [58](58-glassmorphism.md) | [59](59-css-variables.md) | [60](60-modern-features.md) | [Next →](58-glassmorphism.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

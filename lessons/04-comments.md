@@ -101,8 +101,17 @@ p {
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ០៣៖ របៀបភ្ជាប់ CSS ទៅកាន់ HTML (How to Add CSS)](03-how-to-add-css.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ០៥៖ ការប្រើប្រាស់ពណ៌ក្នុង CSS (CSS Colors) ➡️](05-colors.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>4</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>០៤</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](03-how-to-add-css.md) | [01](01-introduction.md) | [02](02-syntax-and-selectors.md) | [03](03-how-to-add-css.md) | **[ 04 ]** | [05](05-colors.md) | ... | [60](60-modern-features.md) | [Next →](05-colors.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

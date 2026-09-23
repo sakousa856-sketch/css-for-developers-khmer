@@ -184,8 +184,17 @@ body {
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ៥៨៖ Glassmorphism & Frosted Glass Effect](58-glassmorphism.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៦០៖ មុខងារទំនើបៗនៃ Modern CSS (:has, Nesting, Container Queries) ➡️](60-modern-features.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>59</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>៥៩</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](58-glassmorphism.md) | [01](01-introduction.md) | ... | [56](56-tooltips-and-modals.md) | [57](57-filter-effects.md) | [58](58-glassmorphism.md) | **[ 59 ]** | [60](60-modern-features.md) | [Next →](60-modern-features.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

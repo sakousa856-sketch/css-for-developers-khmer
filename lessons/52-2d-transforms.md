@@ -140,8 +140,17 @@
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ៥១៖ ការទាញយក Web Fonts ផ្ទាល់ខ្លួន (CSS @font-face)](51-web-fonts.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៥៣៖ ការបំប្លែងរូបរាង 3D (CSS 3D Transforms) ➡️](53-3d-transforms.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>52</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>៥២</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](51-web-fonts.md) | [01](01-introduction.md) | ... | [50](50-text-effects.md) | [51](51-web-fonts.md) | **[ 52 ]** | [53](53-3d-transforms.md) | [54](54-transitions.md) | ... | [60](60-modern-features.md) | [Next →](53-3d-transforms.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

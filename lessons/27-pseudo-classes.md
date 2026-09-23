@@ -158,8 +158,17 @@ input[type="checkbox"]:checked + label {
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ២៦៖ ការផ្គុំ Selectors (CSS Combinators)](26-combinators.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ២៨៖ ធាតុក្លែងក្លាយ (CSS Pseudo-elements) ➡️](28-pseudo-elements.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>27</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>២៧</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](26-combinators.md) | [01](01-introduction.md) | ... | [25](25-align.md) | [26](26-combinators.md) | **[ 27 ]** | [28](28-pseudo-elements.md) | [29](29-opacity.md) | ... | [60](60-modern-features.md) | [Next →](28-pseudo-elements.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

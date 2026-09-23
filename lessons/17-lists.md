@@ -158,8 +158,17 @@ ul.feature-list li::before {
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ១៦៖ ការកំណត់ Style លើ Link (CSS Links)](16-links.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ១៨៖ ការកំណត់ Style លើតារាង (CSS Tables) ➡️](18-tables.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>17</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>១៧</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](16-links.md) | [01](01-introduction.md) | ... | [15](15-icons.md) | [16](16-links.md) | **[ 17 ]** | [18](18-tables.md) | [19](19-display.md) | ... | [60](60-modern-features.md) | [Next →](18-tables.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

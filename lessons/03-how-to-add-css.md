@@ -130,8 +130,17 @@ h1 {
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ០២៖ ទម្រង់កូដ និង Selectors មូលដ្ឋាន (CSS Syntax & Selectors)](02-syntax-and-selectors.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ០៤៖ ការដាក់ចំណាំក្នុង CSS (CSS Comments) ➡️](04-comments.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>3</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>០៣</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](02-syntax-and-selectors.md) | [01](01-introduction.md) | [02](02-syntax-and-selectors.md) | **[ 03 ]** | [04](04-comments.md) | [05](05-colors.md) | ... | [60](60-modern-features.md) | [Next →](04-comments.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

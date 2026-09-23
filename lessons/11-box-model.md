@@ -123,8 +123,17 @@ div {
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ១០៖ កម្ពស់ និងទទឹង (CSS Height, Width & Max-Width)](10-height-and-width.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ១២៖ បន្ទាត់ស៊ុមក្រៅ (CSS Outline) ➡️](12-outline.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>11</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>១១</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](10-height-and-width.md) | [01](01-introduction.md) | ... | [09](09-padding.md) | [10](10-height-and-width.md) | **[ 11 ]** | [12](12-outline.md) | [13](13-text.md) | ... | [60](60-modern-features.md) | [Next →](12-outline.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

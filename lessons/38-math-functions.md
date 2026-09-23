@@ -127,8 +127,17 @@ h1 {
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ៣៧៖ ទម្ងន់ និងលំដាប់អានុភាព (CSS Specificity & The Cascade)](37-specificity-and-cascade.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៣៩៖ Flexbox: Container Properties (CSS Flexbox Container) ➡️](39-flexbox-container.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>38</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>៣៨</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](37-specificity-and-cascade.md) | [01](01-introduction.md) | ... | [36](36-units.md) | [37](37-specificity-and-cascade.md) | **[ 38 ]** | [39](39-flexbox-container.md) | [40](40-flexbox-items.md) | ... | [60](60-modern-features.md) | [Next →](39-flexbox-container.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

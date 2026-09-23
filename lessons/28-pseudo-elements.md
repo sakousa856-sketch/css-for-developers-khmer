@@ -165,8 +165,17 @@ input::placeholder {
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ២៧៖ ស្លាកក្លែងក្លាយ (CSS Pseudo-classes)](27-pseudo-classes.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ២៩៖ កម្រិតថ្លា និងភាពស្រអាប់ (CSS Opacity & Transparency) ➡️](29-opacity.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>28</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>២៨</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](27-pseudo-classes.md) | [01](01-introduction.md) | ... | [26](26-combinators.md) | [27](27-pseudo-classes.md) | **[ 28 ]** | [29](29-opacity.md) | [30](30-navigation-bars.md) | ... | [60](60-modern-features.md) | [Next →](29-opacity.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

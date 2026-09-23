@@ -127,8 +127,17 @@ img.avatar-right {
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ២២៖ ការគ្រប់គ្រងមាតិកាហៀរចេញ (CSS Overflow)](22-overflow.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ២៤៖ ធាតុប្លង់ Inline-Block (CSS Inline-Block Layout) ➡️](24-inline-block.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>23</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>២៣</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](22-overflow.md) | [01](01-introduction.md) | ... | [21](21-position.md) | [22](22-overflow.md) | **[ 23 ]** | [24](24-inline-block.md) | [25](25-align.md) | ... | [60](60-modern-features.md) | [Next →](24-inline-block.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

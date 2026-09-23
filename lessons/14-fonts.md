@@ -136,8 +136,17 @@ body {
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ១៣៖ ការកំណត់ទម្រង់អត្ថបទ (CSS Text Formatting)](13-text.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ១៥៖ ការប្រើប្រាស់ Icons (CSS Icons) ➡️](15-icons.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>14</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>១៤</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](13-text.md) | [01](01-introduction.md) | ... | [12](12-outline.md) | [13](13-text.md) | **[ 14 ]** | [15](15-icons.md) | [16](16-links.md) | ... | [60](60-modern-features.md) | [Next →](15-icons.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

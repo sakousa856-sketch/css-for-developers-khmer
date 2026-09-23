@@ -170,8 +170,17 @@
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ២៩៖ កម្រិតថ្លា និងភាពស្រអាប់ (CSS Opacity & Transparency)](29-opacity.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៣១៖ មីនុយទម្លាក់ចុះ (CSS Dropdowns) ➡️](31-dropdowns.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>30</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>៣០</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](29-opacity.md) | [01](01-introduction.md) | ... | [28](28-pseudo-elements.md) | [29](29-opacity.md) | **[ 30 ]** | [31](31-dropdowns.md) | [32](32-image-gallery.md) | ... | [60](60-modern-features.md) | [Next →](31-dropdowns.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

@@ -170,8 +170,17 @@ body {
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ០៥៖ ការប្រើប្រាស់ពណ៌ក្នុង CSS (CSS Colors)](05-colors.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ០៧៖ បន្ទាត់ព្រំដែន (CSS Borders) ➡️](07-borders.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>6</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>០៦</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](05-colors.md) | [01](01-introduction.md) | ... | [04](04-comments.md) | [05](05-colors.md) | **[ 06 ]** | [07](07-borders.md) | [08](08-margins.md) | ... | [60](60-modern-features.md) | [Next →](07-borders.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

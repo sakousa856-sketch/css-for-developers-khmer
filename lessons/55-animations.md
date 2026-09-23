@@ -165,8 +165,17 @@
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ៥៤៖ ការផ្លាស់ប្តូរដោយរលូន (CSS Transitions)](54-transitions.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៥៦៖ Tooltips & Modal Popup បែប Pure CSS ➡️](56-tooltips-and-modals.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>55</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>៥៥</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](54-transitions.md) | [01](01-introduction.md) | ... | [53](53-3d-transforms.md) | [54](54-transitions.md) | **[ 55 ]** | [56](56-tooltips-and-modals.md) | [57](57-filter-effects.md) | ... | [60](60-modern-features.md) | [Next →](56-tooltips-and-modals.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

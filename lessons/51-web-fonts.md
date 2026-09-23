@@ -93,8 +93,17 @@ body {
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ៥០៖ ផលប៉ះពាល់អក្សរ (CSS Text Effects)](50-text-effects.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៥២៖ ការបំប្លែងរូបរាង 2D (CSS 2D Transforms) ➡️](52-2d-transforms.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>51</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>៥១</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](50-text-effects.md) | [01](01-introduction.md) | ... | [49](49-shadows-and-rounded.md) | [50](50-text-effects.md) | **[ 51 ]** | [52](52-2d-transforms.md) | [53](53-3d-transforms.md) | ... | [60](60-modern-features.md) | [Next →](52-2d-transforms.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

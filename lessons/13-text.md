@@ -158,8 +158,17 @@ h1 {
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ១២៖ បន្ទាត់ស៊ុមក្រៅ (CSS Outline)](12-outline.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ១៤៖ ពុម្ពអក្សរ (CSS Fonts) ➡️](14-fonts.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>13</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>១៣</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](12-outline.md) | [01](01-introduction.md) | ... | [11](11-box-model.md) | [12](12-outline.md) | **[ 13 ]** | [14](14-fonts.md) | [15](15-icons.md) | ... | [60](60-modern-features.md) | [Next →](14-fonts.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

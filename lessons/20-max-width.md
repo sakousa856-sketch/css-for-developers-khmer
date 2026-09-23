@@ -133,8 +133,17 @@
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ១៩៖ លក្ខណៈបង្ហាញ Display (CSS Display Property)](19-display.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ២១៖ ទីតាំងនៃ Element (CSS Position & Z-Index) ➡️](21-position.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>20</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>២០</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](19-display.md) | [01](01-introduction.md) | ... | [18](18-tables.md) | [19](19-display.md) | **[ 20 ]** | [21](21-position.md) | [22](22-overflow.md) | ... | [60](60-modern-features.md) | [Next →](21-position.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

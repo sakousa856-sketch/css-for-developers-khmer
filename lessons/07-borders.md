@@ -160,8 +160,17 @@ p {
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ០៦៖ ផ្ទៃខាងក្រោយ (CSS Backgrounds)](06-backgrounds.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ០៨៖ គម្លាតខាងក្រៅ (CSS Margins) ➡️](08-margins.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>7</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>០៧</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](06-backgrounds.md) | [01](01-introduction.md) | ... | [05](05-colors.md) | [06](06-backgrounds.md) | **[ 07 ]** | [08](08-margins.md) | [09](09-padding.md) | ... | [60](60-modern-features.md) | [Next →](08-margins.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

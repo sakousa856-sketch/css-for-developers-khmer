@@ -131,8 +131,17 @@ button:focus-visible {
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ១១៖ គំរូប្រអប់ (CSS Box Model)](11-box-model.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ១៣៖ ការកំណត់ទម្រង់អត្ថបទ (CSS Text Formatting) ➡️](13-text.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>12</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>១២</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](11-box-model.md) | [01](01-introduction.md) | ... | [10](10-height-and-width.md) | [11](11-box-model.md) | **[ 12 ]** | [13](13-text.md) | [14](14-fonts.md) | ... | [60](60-modern-features.md) | [Next →](13-text.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

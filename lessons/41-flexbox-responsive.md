@@ -177,8 +177,17 @@ footer {
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ៤០៖ Flexbox: Item Properties (CSS Flexbox Items)](40-flexbox-items.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៤២៖ Grid: Container Properties (CSS Grid Container) ➡️](42-grid-container.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>41</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>៤១</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](40-flexbox-items.md) | [01](01-introduction.md) | ... | [39](39-flexbox-container.md) | [40](40-flexbox-items.md) | **[ 41 ]** | [42](42-grid-container.md) | [43](43-grid-items.md) | ... | [60](60-modern-features.md) | [Next →](42-grid-container.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

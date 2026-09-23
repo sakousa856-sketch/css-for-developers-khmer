@@ -137,8 +137,17 @@
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ១៨៖ ការកំណត់ Style លើតារាង (CSS Tables)](18-tables.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ២០៖ ការប្រើប្រាស់ Max-Width សម្រាប់ Container (CSS Max-width) ➡️](20-max-width.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>19</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>១៩</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](18-tables.md) | [01](01-introduction.md) | ... | [17](17-lists.md) | [18](18-tables.md) | **[ 19 ]** | [20](20-max-width.md) | [21](21-position.md) | ... | [60](60-modern-features.md) | [Next →](20-max-width.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

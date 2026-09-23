@@ -150,8 +150,17 @@ a[href^="https://"]::after {
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ៣២៖ វិចិត្រសាលរូបភាព និង Image Sprites (CSS Image Gallery & Sprites)](32-image-gallery.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៣៤៖ ការកំណត់ Style លើ Forms & Inputs (CSS Forms) ➡️](34-forms-styling.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>33</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>៣៣</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](32-image-gallery.md) | [01](01-introduction.md) | ... | [31](31-dropdowns.md) | [32](32-image-gallery.md) | **[ 33 ]** | [34](34-forms-styling.md) | [35](35-counters.md) | ... | [60](60-modern-features.md) | [Next →](34-forms-styling.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

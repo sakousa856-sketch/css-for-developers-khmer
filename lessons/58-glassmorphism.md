@@ -118,8 +118,17 @@
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ៥៧៖ តម្រងរូបភាព (CSS Filter Effects)](57-filter-effects.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៥៩៖ អថេរក្នុង CSS (CSS Variables / Custom Properties) ➡️](59-css-variables.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>58</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>៥៨</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](57-filter-effects.md) | [01](01-introduction.md) | ... | [56](56-tooltips-and-modals.md) | [57](57-filter-effects.md) | **[ 58 ]** | [59](59-css-variables.md) | [60](60-modern-features.md) | [Next →](59-css-variables.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

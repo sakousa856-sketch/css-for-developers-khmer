@@ -183,8 +183,17 @@
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ៣១៖ មីនុយទម្លាក់ចុះ (CSS Dropdowns)](31-dropdowns.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៣៣៖ ជម្រើសតាមលក្ខណៈសម្បត្តិ (CSS Attribute Selectors) ➡️](33-attribute-selectors.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>32</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>៣២</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](31-dropdowns.md) | [01](01-introduction.md) | ... | [30](30-navigation-bars.md) | [31](31-dropdowns.md) | **[ 32 ]** | [33](33-attribute-selectors.md) | [34](34-forms-styling.md) | ... | [60](60-modern-features.md) | [Next →](33-attribute-selectors.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

@@ -131,8 +131,17 @@
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ៣៥៖ ការរាប់លេខស្វ័យប្រវត្តិ (CSS Counters)](35-counters.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៣៧៖ ទម្ងន់ និងលំដាប់អានុភាព (CSS Specificity & The Cascade) ➡️](37-specificity-and-cascade.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>36</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>៣៦</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](35-counters.md) | [01](01-introduction.md) | ... | [34](34-forms-styling.md) | [35](35-counters.md) | **[ 36 ]** | [37](37-specificity-and-cascade.md) | [38](38-math-functions.md) | ... | [60](60-modern-features.md) | [Next →](37-specificity-and-cascade.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

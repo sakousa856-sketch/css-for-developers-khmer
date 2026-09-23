@@ -114,8 +114,17 @@
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ៤៤៖ Grid: Advanced Patterns & Auto Layouts](44-grid-advanced.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៤៦៖ RWD: Media Queries (CSS @media) ➡️](46-rwd-media-queries.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>45</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>៤៥</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](44-grid-advanced.md) | [01](01-introduction.md) | ... | [43](43-grid-items.md) | [44](44-grid-advanced.md) | **[ 45 ]** | [46](46-rwd-media-queries.md) | [47](47-rwd-images-and-media.md) | ... | [60](60-modern-features.md) | [Next →](46-rwd-media-queries.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

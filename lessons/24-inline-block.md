@@ -127,8 +127,17 @@
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ២៣៖ ការបណ្តែតធាតុ (CSS Float & Clear)](23-float-and-clear.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ២៥៖ ការតម្រឹមធាតុចំកណ្តាល (CSS Alignment) ➡️](25-align.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>24</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>២៤</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](23-float-and-clear.md) | [01](01-introduction.md) | ... | [22](22-overflow.md) | [23](23-float-and-clear.md) | **[ 24 ]** | [25](25-align.md) | [26](26-combinators.md) | ... | [60](60-modern-features.md) | [Next →](25-align.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

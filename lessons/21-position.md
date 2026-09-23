@@ -218,8 +218,17 @@
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ២០៖ ការប្រើប្រាស់ Max-Width សម្រាប់ Container (CSS Max-width)](20-max-width.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ២២៖ ការគ្រប់គ្រងមាតិកាហៀរចេញ (CSS Overflow) ➡️](22-overflow.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>21</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>២១</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](20-max-width.md) | [01](01-introduction.md) | ... | [19](19-display.md) | [20](20-max-width.md) | **[ 21 ]** | [22](22-overflow.md) | [23](23-float-and-clear.md) | ... | [60](60-modern-features.md) | [Next →](22-overflow.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

@@ -107,8 +107,17 @@
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| 🛑 *ចំណុចចាប់ផ្តើម* | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ០២៖ ទម្រង់កូដ និង Selectors មូលដ្ឋាន (CSS Syntax & Selectors) ➡️](02-syntax-and-selectors.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>1</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>០១</strong> នៃ <strong>៦០</strong></p>
+
+| ← Prev | **[ 01 ]** | [02](02-syntax-and-selectors.md) | [03](03-how-to-add-css.md) | [04](04-comments.md) | [05](05-colors.md) | ... | [60](60-modern-features.md) | [Next →](02-syntax-and-selectors.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

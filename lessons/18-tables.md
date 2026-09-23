@@ -190,8 +190,17 @@ tbody tr:hover {
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ១៧៖ ការកំណត់ Style លើបញ្ជី (CSS Lists)](17-lists.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ១៩៖ លក្ខណៈបង្ហាញ Display (CSS Display Property) ➡️](19-display.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>18</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>១៨</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](17-lists.md) | [01](01-introduction.md) | ... | [16](16-links.md) | [17](17-lists.md) | **[ 18 ]** | [19](19-display.md) | [20](20-max-width.md) | ... | [60](60-modern-features.md) | [Next →](19-display.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

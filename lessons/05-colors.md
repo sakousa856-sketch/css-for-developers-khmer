@@ -133,8 +133,17 @@ p {
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ០៤៖ ការដាក់ចំណាំក្នុង CSS (CSS Comments)](04-comments.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ០៦៖ ផ្ទៃខាងក្រោយ (CSS Backgrounds) ➡️](06-backgrounds.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>5</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>០៥</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](04-comments.md) | [01](01-introduction.md) | ... | [03](03-how-to-add-css.md) | [04](04-comments.md) | **[ 05 ]** | [06](06-backgrounds.md) | [07](07-borders.md) | ... | [60](60-modern-features.md) | [Next →](06-backgrounds.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

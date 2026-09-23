@@ -157,8 +157,17 @@ Override ឈ្នះ `align-items` របស់ Parent Container សម្រ�
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ៣៩៖ Flexbox: Container Properties (CSS Flexbox Container)](39-flexbox-container.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៤១៖ Flexbox: Layouts ជាក់ស្តែងក្នុងពិភពពិត (Real-World Flexbox Layouts) ➡️](41-flexbox-responsive.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>40</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>៤០</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](39-flexbox-container.md) | [01](01-introduction.md) | ... | [38](38-math-functions.md) | [39](39-flexbox-container.md) | **[ 40 ]** | [41](41-flexbox-responsive.md) | [42](42-grid-container.md) | ... | [60](60-modern-features.md) | [Next →](41-flexbox-responsive.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

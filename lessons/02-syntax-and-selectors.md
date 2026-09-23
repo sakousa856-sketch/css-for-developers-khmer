@@ -169,8 +169,17 @@ h1, h2, h3 {
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ០១៖ សេចក្តីណែនាំអំពី CSS (CSS Introduction)](01-introduction.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ០៣៖ របៀបភ្ជាប់ CSS ទៅកាន់ HTML (How to Add CSS) ➡️](03-how-to-add-css.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>2</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>០២</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](01-introduction.md) | [01](01-introduction.md) | **[ 02 ]** | [03](03-how-to-add-css.md) | [04](04-comments.md) | [05](05-colors.md) | ... | [60](60-modern-features.md) | [Next →](03-how-to-add-css.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

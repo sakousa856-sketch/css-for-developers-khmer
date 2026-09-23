@@ -154,8 +154,17 @@
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ៣០៖ របារបញ្ជា និងមីនុយ (CSS Navigation Bars)](30-navigation-bars.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៣២៖ វិចិត្រសាលរូបភាព និង Image Sprites (CSS Image Gallery & Sprites) ➡️](32-image-gallery.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>31</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>៣១</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](30-navigation-bars.md) | [01](01-introduction.md) | ... | [29](29-opacity.md) | [30](30-navigation-bars.md) | **[ 31 ]** | [32](32-image-gallery.md) | [33](33-attribute-selectors.md) | ... | [60](60-modern-features.md) | [Next →](32-image-gallery.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

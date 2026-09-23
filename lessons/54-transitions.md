@@ -130,8 +130,17 @@
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ៥៣៖ ការបំប្លែងរូបរាង 3D (CSS 3D Transforms)](53-3d-transforms.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៥៥៖ ចលនា Keyframes (CSS Animations & @keyframes) ➡️](55-animations.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>54</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>៥៤</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](53-3d-transforms.md) | [01](01-introduction.md) | ... | [52](52-2d-transforms.md) | [53](53-3d-transforms.md) | **[ 54 ]** | [55](55-animations.md) | [56](56-tooltips-and-modals.md) | ... | [60](60-modern-features.md) | [Next →](55-animations.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

@@ -181,8 +181,17 @@
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ៥២៖ ការបំប្លែងរូបរាង 2D (CSS 2D Transforms)](52-2d-transforms.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៥៤៖ ការផ្លាស់ប្តូរដោយរលូន (CSS Transitions) ➡️](54-transitions.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>53</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>៥៣</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](52-2d-transforms.md) | [01](01-introduction.md) | ... | [51](51-web-fonts.md) | [52](52-2d-transforms.md) | **[ 53 ]** | [54](54-transitions.md) | [55](55-animations.md) | ... | [60](60-modern-features.md) | [Next →](54-transitions.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

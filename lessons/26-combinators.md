@@ -119,8 +119,17 @@ h2 + p {
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ២៥៖ ការតម្រឹមធាតុចំកណ្តាល (CSS Alignment)](25-align.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ២៧៖ ស្លាកក្លែងក្លាយ (CSS Pseudo-classes) ➡️](27-pseudo-classes.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>26</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>២៦</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](25-align.md) | [01](01-introduction.md) | ... | [24](24-inline-block.md) | [25](25-align.md) | **[ 26 ]** | [27](27-pseudo-classes.md) | [28](28-pseudo-elements.md) | ... | [60](60-modern-features.md) | [Next →](27-pseudo-classes.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

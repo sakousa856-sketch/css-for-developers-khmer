@@ -147,8 +147,17 @@
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ២៤៖ ធាតុប្លង់ Inline-Block (CSS Inline-Block Layout)](24-inline-block.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ២៦៖ ការផ្គុំ Selectors (CSS Combinators) ➡️](26-combinators.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>25</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>២៥</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](24-inline-block.md) | [01](01-introduction.md) | ... | [23](23-float-and-clear.md) | [24](24-inline-block.md) | **[ 25 ]** | [26](26-combinators.md) | [27](27-pseudo-classes.md) | ... | [60](60-modern-features.md) | [Next →](26-combinators.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

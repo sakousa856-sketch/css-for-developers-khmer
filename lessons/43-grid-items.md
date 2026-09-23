@@ -142,8 +142,17 @@ Line 1        Line 2        Line 3        Line 4
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ៤២៖ Grid: Container Properties (CSS Grid Container)](42-grid-container.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៤៤៖ Grid: Advanced Patterns & Auto Layouts ➡️](44-grid-advanced.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>43</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>៤៣</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](42-grid-container.md) | [01](01-introduction.md) | ... | [41](41-flexbox-responsive.md) | [42](42-grid-container.md) | **[ 43 ]** | [44](44-grid-advanced.md) | [45](45-rwd-viewport.md) | ... | [60](60-modern-features.md) | [Next →](44-grid-advanced.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

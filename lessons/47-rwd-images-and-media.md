@@ -138,8 +138,17 @@ img {
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ៤៦៖ RWD: Media Queries (CSS @media)](46-rwd-media-queries.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៤៨៖ RWD: Mobile-First Strategy & Best Practices ➡️](48-rwd-mobile-first.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>47</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>៤៧</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](46-rwd-media-queries.md) | [01](01-introduction.md) | ... | [45](45-rwd-viewport.md) | [46](46-rwd-media-queries.md) | **[ 47 ]** | [48](48-rwd-mobile-first.md) | [49](49-shadows-and-rounded.md) | ... | [60](60-modern-features.md) | [Next →](48-rwd-mobile-first.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

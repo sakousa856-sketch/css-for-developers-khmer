@@ -157,8 +157,17 @@ footer  { grid-area: footer; }
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ៤១៖ Flexbox: Layouts ជាក់ស្តែងក្នុងពិភពពិត (Real-World Flexbox Layouts)](41-flexbox-responsive.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៤៣៖ Grid: Item Properties (CSS Grid Items) ➡️](43-grid-items.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>42</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>៤២</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](41-flexbox-responsive.md) | [01](01-introduction.md) | ... | [40](40-flexbox-items.md) | [41](41-flexbox-responsive.md) | **[ 42 ]** | [43](43-grid-items.md) | [44](44-grid-advanced.md) | ... | [60](60-modern-features.md) | [Next →](43-grid-items.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

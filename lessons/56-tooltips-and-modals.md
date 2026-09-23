@@ -219,8 +219,17 @@
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ៥៥៖ ចលនា Keyframes (CSS Animations & @keyframes)](55-animations.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៥៧៖ តម្រងរូបភាព (CSS Filter Effects) ➡️](57-filter-effects.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>56</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>៥៦</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](55-animations.md) | [01](01-introduction.md) | ... | [54](54-transitions.md) | [55](55-animations.md) | **[ 56 ]** | [57](57-filter-effects.md) | [58](58-glassmorphism.md) | ... | [60](60-modern-features.md) | [Next →](57-filter-effects.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

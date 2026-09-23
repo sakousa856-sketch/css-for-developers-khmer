@@ -151,8 +151,17 @@
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ៤៥៖ RWD: Viewport Meta Tag & Fluid Layouts](45-rwd-viewport.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៤៧៖ RWD: Responsive Images & Media ➡️](47-rwd-images-and-media.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>46</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>៤៦</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](45-rwd-viewport.md) | [01](01-introduction.md) | ... | [44](44-grid-advanced.md) | [45](45-rwd-viewport.md) | **[ 46 ]** | [47](47-rwd-images-and-media.md) | [48](48-rwd-mobile-first.md) | ... | [60](60-modern-features.md) | [Next →](47-rwd-images-and-media.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

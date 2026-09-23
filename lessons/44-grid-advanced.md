@@ -146,8 +146,17 @@
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ៤៣៖ Grid: Item Properties (CSS Grid Items)](43-grid-items.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៤៥៖ RWD: Viewport Meta Tag & Fluid Layouts ➡️](45-rwd-viewport.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>44</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>៤៤</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](43-grid-items.md) | [01](01-introduction.md) | ... | [42](42-grid-container.md) | [43](43-grid-items.md) | **[ 44 ]** | [45](45-rwd-viewport.md) | [46](46-rwd-media-queries.md) | ... | [60](60-modern-features.md) | [Next →](45-rwd-viewport.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

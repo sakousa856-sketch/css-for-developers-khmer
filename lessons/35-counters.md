@@ -136,8 +136,17 @@ h2::before {
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ៣៤៖ ការកំណត់ Style លើ Forms & Inputs (CSS Forms)](34-forms-styling.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៣៦៖ ខ្នាតរង្វាស់ក្នុង CSS (CSS Units) ➡️](36-units.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>35</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>៣៥</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](34-forms-styling.md) | [01](01-introduction.md) | ... | [33](33-attribute-selectors.md) | [34](34-forms-styling.md) | **[ 35 ]** | [36](36-units.md) | [37](37-specificity-and-cascade.md) | ... | [60](60-modern-features.md) | [Next →](36-units.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

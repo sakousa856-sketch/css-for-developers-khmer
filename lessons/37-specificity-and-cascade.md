@@ -120,8 +120,17 @@ p {
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ៣៦៖ ខ្នាតរង្វាស់ក្នុង CSS (CSS Units)](36-units.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៣៨៖ មុខងារគណនាក្នុង CSS (CSS Math Functions) ➡️](38-math-functions.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>37</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>៣៧</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](36-units.md) | [01](01-introduction.md) | ... | [35](35-counters.md) | [36](36-units.md) | **[ 37 ]** | [38](38-math-functions.md) | [39](39-flexbox-container.md) | ... | [60](60-modern-features.md) | [Next →](38-math-functions.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>

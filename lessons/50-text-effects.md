@@ -134,8 +134,17 @@
 
 ---
 
-## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+<div align="center">
 
-| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
-| :--- | :---: | ---: |
-| [⬅️ មេរៀនទី ៤៩៖ ស្រមោល និងជ្រុងមូល (Rounded Corners & Box Shadows)](49-shadows-and-rounded.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៥១៖ ការទាញយក Web Fonts ផ្ទាល់ខ្លួន (CSS @font-face) ➡️](51-web-fonts.md) |
+### 🧭 ការរុករកមេរៀន (Lesson Pagination)
+
+<p>Showing Lesson <strong>50</strong> of <strong>60</strong> &nbsp;•&nbsp; មេរៀនទី <strong>៥០</strong> នៃ <strong>៦០</strong></p>
+
+| [← Prev](49-shadows-and-rounded.md) | [01](01-introduction.md) | ... | [48](48-rwd-mobile-first.md) | [49](49-shadows-and-rounded.md) | **[ 50 ]** | [51](51-web-fonts.md) | [52](52-2d-transforms.md) | ... | [60](60-modern-features.md) | [Next →](51-web-fonts.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<br/>
+
+[🏠 ត្រឡប់ទៅមាតិការួម (Table of Contents)](../README.md)
+
+</div>
