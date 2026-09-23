@@ -155,3 +155,11 @@ ul.feature-list li::before {
 * Removing markers and padding: `list-style-type: none; margin: 0; padding: 0;` is common for navigation menus.
 * `list-style-position` specifies whether the list-item markers should appear inside or outside the content flow.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ១៦៖ ការកំណត់ Style លើ Link (CSS Links)](16-links.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ១៨៖ ការកំណត់ Style លើតារាង (CSS Tables) ➡️](18-tables.md) |

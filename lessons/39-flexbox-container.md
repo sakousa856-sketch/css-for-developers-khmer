@@ -168,3 +168,11 @@
 * `gap` defines the size of the gap between flex items without needing margins.
 * `flex-wrap: wrap` allows items to wrap onto multiple lines when space runs out.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ៣៨៖ មុខងារគណនាក្នុង CSS (CSS Math Functions)](38-math-functions.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៤០៖ Flexbox: Item Properties (CSS Flexbox Items) ➡️](40-flexbox-items.md) |

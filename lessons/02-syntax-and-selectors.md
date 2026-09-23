@@ -166,3 +166,11 @@ h1, h2, h3 {
 * Class Selector uses `.` and targets elements with a specific class attribute (`.center`).
 * Universal Selector `*` selects all HTML elements on the page.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ០១៖ សេចក្តីណែនាំអំពី CSS (CSS Introduction)](01-introduction.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ០៣៖ របៀបភ្ជាប់ CSS ទៅកាន់ HTML (How to Add CSS) ➡️](03-how-to-add-css.md) |

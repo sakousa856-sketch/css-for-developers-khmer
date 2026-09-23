@@ -157,3 +157,11 @@ p {
 * `border: 1px solid black;` is the shorthand for width, style, and color.
 * `border-radius` creates rounded corners or circles (`50%`).
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ០៦៖ ផ្ទៃខាងក្រោយ (CSS Backgrounds)](06-backgrounds.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ០៨៖ គម្លាតខាងក្រៅ (CSS Margins) ➡️](08-margins.md) |

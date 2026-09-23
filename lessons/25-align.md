@@ -144,3 +144,11 @@
   * Method 2 (Grid): `display: grid; place-items: center;`
   * Method 3 (Absolute): `position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);`
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ២៤៖ ធាតុប្លង់ Inline-Block (CSS Inline-Block Layout)](24-inline-block.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ២៦៖ ការផ្គុំ Selectors (CSS Combinators) ➡️](26-combinators.md) |

@@ -96,3 +96,11 @@
 * Always use `min-width` media queries in ascending order for mobile-first CSS architecture.
 * Mobile-first leads to cleaner code, faster mobile loading times, and better SEO rankings.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ៤៧៖ RWD: Responsive Images & Media](47-rwd-images-and-media.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៤៩៖ ស្រមោល និងជ្រុងមូល (Rounded Corners & Box Shadows) ➡️](49-shadows-and-rounded.md) |

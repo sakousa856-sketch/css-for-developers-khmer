@@ -174,3 +174,11 @@ footer {
 * Responsive card decks can be achieved using `display: flex; flex-wrap: wrap;` and `flex: 1 1 300px;`.
 * Sticky Footer is elegantly solved with `body { min-height: 100vh; display: flex; flex-direction: column; }` and `main { flex: 1; }`.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ៤០៖ Flexbox: Item Properties (CSS Flexbox Items)](40-flexbox-items.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៤២៖ Grid: Container Properties (CSS Grid Container) ➡️](42-grid-container.md) |

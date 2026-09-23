@@ -111,3 +111,11 @@
 * Always include `<meta name="viewport" content="width=device-width, initial-scale=1.0">` in all web pages.
 * Do not use large fixed-width elements; use relative width values like percentages.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ៤៤៖ Grid: Advanced Patterns & Auto Layouts](44-grid-advanced.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៤៦៖ RWD: Media Queries (CSS @media) ➡️](46-rwd-media-queries.md) |

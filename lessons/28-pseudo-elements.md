@@ -162,3 +162,11 @@ input::placeholder {
 * `::before` and `::after` insert virtual content before or after the element's content; they REQUIRE the `content` property.
 * Replaced/void elements like `<img>` or `<input>` cannot have `::before` or `::after`.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ២៧៖ ស្លាកក្លែងក្លាយ (CSS Pseudo-classes)](27-pseudo-classes.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ២៩៖ កម្រិតថ្លា និងភាពស្រអាប់ (CSS Opacity & Transparency) ➡️](29-opacity.md) |

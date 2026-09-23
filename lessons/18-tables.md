@@ -187,3 +187,11 @@ tbody tr:hover {
 * Use `:nth-child(even)` or `:nth-child(odd)` to create striped tables (Zebra striping).
 * Wrap tables inside a `div` with `overflow-x: auto` for mobile responsiveness.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ១៧៖ ការកំណត់ Style លើបញ្ជី (CSS Lists)](17-lists.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ១៩៖ លក្ខណៈបង្ហាញ Display (CSS Display Property) ➡️](19-display.md) |

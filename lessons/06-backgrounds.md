@@ -167,3 +167,11 @@ body {
 * `background-size: cover` scales the image so that the entire container is covered.
 * `background-attachment: fixed` creates a fixed position background during scroll.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ០៥៖ ការប្រើប្រាស់ពណ៌ក្នុង CSS (CSS Colors)](05-colors.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ០៧៖ បន្ទាត់ព្រំដែន (CSS Borders) ➡️](07-borders.md) |

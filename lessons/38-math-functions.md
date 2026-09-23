@@ -124,3 +124,11 @@ h1 {
 * `max()`: Uses the largest value from a list of comma-separated expressions.
 * `clamp(min, preferred, max)`: Clamps a value between an upper and lower bound, perfect for fluid typography.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ៣៧៖ ទម្ងន់ និងលំដាប់អានុភាព (CSS Specificity & The Cascade)](37-specificity-and-cascade.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៣៩៖ Flexbox: Container Properties (CSS Flexbox Container) ➡️](39-flexbox-container.md) |

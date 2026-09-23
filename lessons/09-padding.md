@@ -131,3 +131,11 @@ $$\text{Total Width} = 300\text{px} + 25\text{px (left)} + 25\text{px (right)} =
 * By default, padding increases the total calculated width of an element.
 * Use `box-sizing: border-box` to include padding in the element's width calculation.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ០៨៖ គម្លាតខាងក្រៅ (CSS Margins)](08-margins.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ១០៖ កម្ពស់ និងទទឹង (CSS Height, Width & Max-Width) ➡️](10-height-and-width.md) |

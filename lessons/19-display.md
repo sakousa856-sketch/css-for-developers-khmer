@@ -134,3 +134,11 @@
 * `inline-block`: Formatted like an inline element, but accepts width and height properties.
 * `display: none`: Hides the element and removes its space from the layout.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ១៨៖ ការកំណត់ Style លើតារាង (CSS Tables)](18-tables.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ២០៖ ការប្រើប្រាស់ Max-Width សម្រាប់ Container (CSS Max-width) ➡️](20-max-width.md) |

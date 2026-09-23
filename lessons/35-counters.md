@@ -133,3 +133,11 @@ h2::before {
 * `counter-increment`: Increments a counter value on child elements.
 * `content: counter(name)`: Inserts the generated counter value into a pseudo-element (`::before`).
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ៣៤៖ ការកំណត់ Style លើ Forms & Inputs (CSS Forms)](34-forms-styling.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៣៦៖ ខ្នាតរង្វាស់ក្នុង CSS (CSS Units) ➡️](36-units.md) |

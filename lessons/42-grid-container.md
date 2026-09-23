@@ -154,3 +154,11 @@ footer  { grid-area: footer; }
 * The `fr` unit represents a fraction of the available space in the grid container.
 * `grid-template-areas` provides a visual layout map using named grid areas.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ៤១៖ Flexbox: Layouts ជាក់ស្តែងក្នុងពិភពពិត (Real-World Flexbox Layouts)](41-flexbox-responsive.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៤៣៖ Grid: Item Properties (CSS Grid Items) ➡️](43-grid-items.md) |

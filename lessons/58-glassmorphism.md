@@ -115,3 +115,11 @@
 * Always include the `-webkit-backdrop-filter` prefix for Safari browser support.
 * Light borders (`rgba(255,255,255,0.3)`) simulate real glass edges reflecting light.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ៥៧៖ តម្រងរូបភាព (CSS Filter Effects)](57-filter-effects.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៥៩៖ អថេរក្នុង CSS (CSS Variables / Custom Properties) ➡️](59-css-variables.md) |

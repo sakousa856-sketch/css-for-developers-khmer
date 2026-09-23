@@ -215,3 +215,11 @@
 * `sticky`: Toggles between `relative` and `fixed` based on the scroll position.
 * `z-index` specifies the stack order of an element (only works on positioned elements).
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ២០៖ ការប្រើប្រាស់ Max-Width សម្រាប់ Container (CSS Max-width)](20-max-width.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ២២៖ ការគ្រប់គ្រងមាតិកាហៀរចេញ (CSS Overflow) ➡️](22-overflow.md) |

@@ -90,3 +90,11 @@ body {
 * `WOFF2` is the modern, highly compressed font format recommended for web use.
 * `font-display: swap` prevents FOIT (Flash of Invisible Text) by rendering fallback fonts until custom fonts load.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ៥០៖ ផលប៉ះពាល់អក្សរ (CSS Text Effects)](50-text-effects.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៥២៖ ការបំប្លែងរូបរាង 2D (CSS 2D Transforms) ➡️](52-2d-transforms.md) |

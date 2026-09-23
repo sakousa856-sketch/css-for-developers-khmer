@@ -131,3 +131,11 @@
 * `overflow-wrap: break-word` prevents long words and URLs from overflowing their container.
 * Multiple `text-shadow` values create striking neon glow or 3D text effects.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ៤៩៖ ស្រមោល និងជ្រុងមូល (Rounded Corners & Box Shadows)](49-shadows-and-rounded.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៥១៖ ការទាញយក Web Fonts ផ្ទាល់ខ្លួន (CSS @font-face) ➡️](51-web-fonts.md) |

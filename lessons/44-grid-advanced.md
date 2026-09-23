@@ -143,3 +143,11 @@
 * `repeat(auto-fit, minmax(250px, 1fr))` is the industry-standard pattern for creating responsive grids with zero media queries.
 * `auto-fit` stretches existing items to fill the row, while `auto-fill` keeps empty columns open.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ៤៣៖ Grid: Item Properties (CSS Grid Items)](43-grid-items.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៤៥៖ RWD: Viewport Meta Tag & Fluid Layouts ➡️](45-rwd-viewport.md) |

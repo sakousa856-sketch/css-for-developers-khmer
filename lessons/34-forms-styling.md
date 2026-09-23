@@ -164,3 +164,11 @@ select:focus {
 * Use `:focus` to provide modern outline rings with `box-shadow: 0 0 0 3px rgba(...)`.
 * Connect labels to inputs via `for` and `id` attributes for improved user experience and accessibility.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ៣៣៖ ជម្រើសតាមលក្ខណៈសម្បត្តិ (CSS Attribute Selectors)](33-attribute-selectors.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៣៥៖ ការរាប់លេខស្វ័យប្រវត្តិ (CSS Counters) ➡️](35-counters.md) |

@@ -151,3 +151,11 @@
 * The dropdown content is hidden by default (`display: none`) and shown on hover (`:hover .dropdown-content { display: block; }`).
 * Use `z-index` to keep the dropdown menu on top of other content.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ៣០៖ របារបញ្ជា និងមីនុយ (CSS Navigation Bars)](30-navigation-bars.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៣២៖ វិចិត្រសាលរូបភាព និង Image Sprites (CSS Image Gallery & Sprites) ➡️](32-image-gallery.md) |

@@ -127,3 +127,11 @@
 * Always place the `transition` rule on the default element state, not on the `:hover` pseudo-class.
 * Transitioning `transform` and `opacity` is GPU-accelerated and provides the smoothest performance.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ៥៣៖ ការបំប្លែងរូបរាង 3D (CSS 3D Transforms)](53-3d-transforms.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៥៥៖ ចលនា Keyframes (CSS Animations & @keyframes) ➡️](55-animations.md) |

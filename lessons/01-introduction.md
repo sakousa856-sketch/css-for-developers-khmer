@@ -104,3 +104,11 @@
 * CSS saves a lot of work. It can control the layout of multiple web pages all at once.
 * External stylesheets are stored in CSS files.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| 🛑 *ចំណុចចាប់ផ្តើម* | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ០២៖ ទម្រង់កូដ និង Selectors មូលដ្ឋាន (CSS Syntax & Selectors) ➡️](02-syntax-and-selectors.md) |

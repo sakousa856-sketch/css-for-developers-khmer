@@ -155,3 +155,11 @@ input[type="checkbox"]:checked + label {
 * `:not(selector)` matches elements that do not match the specified selector.
 * Pseudo-classes use a single colon `:` syntax.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ២៦៖ ការផ្គុំ Selectors (CSS Combinators)](26-combinators.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ២៨៖ ធាតុក្លែងក្លាយ (CSS Pseudo-elements) ➡️](28-pseudo-elements.md) |

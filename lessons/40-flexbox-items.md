@@ -154,3 +154,11 @@ Override ឈ្នះ `align-items` របស់ Parent Container សម្រ�
 * `flex: 0 0 250px;` creates a rigid fixed-width flex item.
 * `align-self` allows overriding the container's `align-items` property for individual flex items.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ៣៩៖ Flexbox: Container Properties (CSS Flexbox Container)](39-flexbox-container.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៤១៖ Flexbox: Layouts ជាក់ស្តែងក្នុងពិភពពិត (Real-World Flexbox Layouts) ➡️](41-flexbox-responsive.md) |

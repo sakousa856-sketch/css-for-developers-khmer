@@ -135,3 +135,11 @@
 * `scroll`: The overflow is clipped, but a scrollbar is added.
 * `auto`: Similar to scroll, but adds scrollbars only when necessary.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ២១៖ ទីតាំងនៃ Element (CSS Position & Z-Index)](21-position.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ២៣៖ ការបណ្តែតធាតុ (CSS Float & Clear) ➡️](23-float-and-clear.md) |

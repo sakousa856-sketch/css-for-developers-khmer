@@ -159,3 +159,11 @@ body:has(#dark-mode-toggle:checked) {
 * Native CSS Nesting allows nesting rules inside each other using the `&` nesting selector without build tools.
 * Container Queries (`@container`) enable responsive components based on the size of their parent container rather than the viewport.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ៥៩៖ អថេរក្នុង CSS (CSS Variables / Custom Properties)](59-css-variables.md) | [📚 មាតិកាទាំងអស់](../README.md) | [🏆 គម្រោង Capstone Projects ➡️](../projects/01-modern-personal-portfolio/index.html) |

@@ -162,3 +162,11 @@
 * `animation: name duration timing-function delay iteration-count direction fill-mode;`.
 * Always support `prefers-reduced-motion` for accessible user experience.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ៥៤៖ ការផ្លាស់ប្តូរដោយរលូន (CSS Transitions)](54-transitions.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៥៦៖ Tooltips & Modal Popup បែប Pure CSS ➡️](56-tooltips-and-modals.md) |

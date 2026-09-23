@@ -128,3 +128,11 @@
 * `vw` / `vh` are relative to 1% of the viewport width / height.
 * `max-width: 65ch` creates an optimal reading line length for text blocks.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ៣៥៖ ការរាប់លេខស្វ័យប្រវត្តិ (CSS Counters)](35-counters.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៣៧៖ ទម្ងន់ និងលំដាប់អានុភាព (CSS Specificity & The Cascade) ➡️](37-specificity-and-cascade.md) |

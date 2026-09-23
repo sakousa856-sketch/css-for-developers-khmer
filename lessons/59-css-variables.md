@@ -181,3 +181,11 @@ body {
 * Declaring variables in `:root` gives them global scope across the entire DOM tree.
 * Switching custom property values inside `[data-theme="dark"]` provides the most maintainable Dark Mode architecture.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ៥៨៖ Glassmorphism & Frosted Glass Effect](58-glassmorphism.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៦០៖ មុខងារទំនើបៗនៃ Modern CSS (:has, Nesting, Container Queries) ➡️](60-modern-features.md) |

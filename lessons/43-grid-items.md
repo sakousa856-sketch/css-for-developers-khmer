@@ -139,3 +139,11 @@ Line 1        Line 2        Line 3        Line 4
 * `grid-column: span 2;` spans the item across two column tracks.
 * `grid-column: 1 / -1;` spans the item across the full width of the grid.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ៤២៖ Grid: Container Properties (CSS Grid Container)](42-grid-container.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៤៤៖ Grid: Advanced Patterns & Auto Layouts ➡️](44-grid-advanced.md) |

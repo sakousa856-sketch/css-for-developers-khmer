@@ -130,3 +130,11 @@ p {
 * RGBA allows adding transparency through an Alpha channel between `0.0` (fully transparent) and `1.0` (fully opaque).
 * Use `rgba()` background instead of `opacity` if you only want the background to be translucent without affecting children elements.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ០៤៖ ការដាក់ចំណាំក្នុង CSS (CSS Comments)](04-comments.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ០៦៖ ផ្ទៃខាងក្រោយ (CSS Backgrounds) ➡️](06-backgrounds.md) |

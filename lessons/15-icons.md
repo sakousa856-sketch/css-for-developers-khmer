@@ -133,3 +133,11 @@
 * Icon fonts can be styled with CSS `color`, `font-size`, `transform`, and `text-shadow`.
 * Use `display: flex; align-items: center; gap: 8px;` to properly align icons with accompanying text.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ១៤៖ ពុម្ពអក្សរ (CSS Fonts)](14-fonts.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ១៦៖ ការកំណត់ Style លើ Link (CSS Links) ➡️](16-links.md) |

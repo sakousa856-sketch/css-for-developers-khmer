@@ -147,3 +147,11 @@ a[href^="https://"]::after {
 * `[attribute$="value"]` matches values ending with the specified string.
 * `[attribute*="value"]` matches values containing the specified substring.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ៣២៖ វិចិត្រសាលរូបភាព និង Image Sprites (CSS Image Gallery & Sprites)](32-image-gallery.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៣៤៖ ការកំណត់ Style លើ Forms & Inputs (CSS Forms) ➡️](34-forms-styling.md) |

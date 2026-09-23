@@ -117,3 +117,11 @@ p {
 * When specificity is equal, the LAST rule written in the CSS wins (Source Order).
 * `!important` overrides normal specificity and should be used with extreme caution.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ៣៦៖ ខ្នាតរង្វាស់ក្នុង CSS (CSS Units)](36-units.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៣៨៖ មុខងារគណនាក្នុង CSS (CSS Math Functions) ➡️](38-math-functions.md) |

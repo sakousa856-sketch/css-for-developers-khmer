@@ -130,3 +130,11 @@
 * Using `max-width: 100%` along with a pixel value (e.g., `max-width: 1200px`) allows the container to adapt to smaller screens without horizontal scrolling.
 * `margin: 0 auto;` horizontally centers the element inside its parent container.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ១៩៖ លក្ខណៈបង្ហាញ Display (CSS Display Property)](19-display.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ២១៖ ទីតាំងនៃ Element (CSS Position & Z-Index) ➡️](21-position.md) |

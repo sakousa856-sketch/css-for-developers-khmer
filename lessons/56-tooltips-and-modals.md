@@ -216,3 +216,11 @@
 * Pure CSS modal popups can be created with the `:target` pseudo-class.
 * Use `pointer-events: none` on hidden tooltip elements to avoid interfering with user cursor events.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ៥៥៖ ចលនា Keyframes (CSS Animations & @keyframes)](55-animations.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៥៧៖ តម្រងរូបភាព (CSS Filter Effects) ➡️](57-filter-effects.md) |

@@ -116,3 +116,11 @@ h2 + p {
 * Adjacent sibling selector (`+`): matches the element directly after a specific element.
 * General sibling selector (`~`): matches all elements that are siblings of a specified element.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ២៥៖ ការតម្រឹមធាតុចំកណ្តាល (CSS Alignment)](25-align.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ២៧៖ ស្លាកក្លែងក្លាយ (CSS Pseudo-classes) ➡️](27-pseudo-classes.md) |

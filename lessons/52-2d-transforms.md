@@ -137,3 +137,11 @@
 * `rotate(deg)` rotates an element clockwise by specified degrees.
 * Transforms are GPU-accelerated and offer high performance (60fps) compared to top/left manipulations.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ៥១៖ ការទាញយក Web Fonts ផ្ទាល់ខ្លួន (CSS @font-face)](51-web-fonts.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៥៣៖ ការបំប្លែងរូបរាង 3D (CSS 3D Transforms) ➡️](53-3d-transforms.md) |

@@ -98,3 +98,11 @@ p {
 * Comments are ignored by browsers and do not affect the rendering.
 * `//` is NOT a valid comment syntax in pure standard CSS.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ០៣៖ របៀបភ្ជាប់ CSS ទៅកាន់ HTML (How to Add CSS)](03-how-to-add-css.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ០៥៖ ការប្រើប្រាស់ពណ៌ក្នុង CSS (CSS Colors) ➡️](05-colors.md) |

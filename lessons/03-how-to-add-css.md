@@ -127,3 +127,11 @@ h1 {
 * Inline CSS is defined via the `style` attribute inside HTML elements.
 * Inline styles have the highest priority among the three insertion methods.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ០២៖ ទម្រង់កូដ និង Selectors មូលដ្ឋាន (CSS Syntax & Selectors)](02-syntax-and-selectors.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ០៤៖ ការដាក់ចំណាំក្នុង CSS (CSS Comments) ➡️](04-comments.md) |

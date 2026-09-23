@@ -180,3 +180,11 @@
 * An image sprite is a collection of images put into a single image.
 * Sprites reduce the number of server requests and save bandwidth.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ៣១៖ មីនុយទម្លាក់ចុះ (CSS Dropdowns)](31-dropdowns.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៣៣៖ ជម្រើសតាមលក្ខណៈសម្បត្តិ (CSS Attribute Selectors) ➡️](33-attribute-selectors.md) |

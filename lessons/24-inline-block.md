@@ -124,3 +124,11 @@
 * HTML whitespace between `inline-block` elements adds an unintended ~4px gap.
 * Use `vertical-align: top` to ensure adjacent `inline-block` boxes align at the top edge.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ២៣៖ ការបណ្តែតធាតុ (CSS Float & Clear)](23-float-and-clear.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ២៥៖ ការតម្រឹមធាតុចំកណ្តាល (CSS Alignment) ➡️](25-align.md) |

@@ -167,3 +167,11 @@
 * Flexbox (`display: flex;`) is the modern standard for creating responsive horizontal navigation bars.
 * `margin-left: auto` easily pushes navigation items to the right side of the navbar.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ២៩៖ កម្រិតថ្លា និងភាពស្រអាប់ (CSS Opacity & Transparency)](29-opacity.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៣១៖ មីនុយទម្លាក់ចុះ (CSS Dropdowns) ➡️](31-dropdowns.md) |

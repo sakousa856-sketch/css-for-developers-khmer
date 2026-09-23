@@ -178,3 +178,11 @@
 * `transform-style: preserve-3d` ensures child elements preserve their 3D positions.
 * `backface-visibility: hidden` hides the back of an element when turned away from the user.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ៥២៖ ការបំប្លែងរូបរាង 2D (CSS 2D Transforms)](52-2d-transforms.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៥៤៖ ការផ្លាស់ប្តូរដោយរលូន (CSS Transitions) ➡️](54-transitions.md) |

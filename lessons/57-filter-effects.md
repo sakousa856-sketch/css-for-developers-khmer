@@ -116,3 +116,11 @@
 * Functions include `blur()`, `brightness()`, `contrast()`, `grayscale()`, `hue-rotate()`, `invert()`, and `drop-shadow()`.
 * `filter: drop-shadow()` fits the exact contours of transparent PNG and SVG assets.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ៥៦៖ Tooltips & Modal Popup បែប Pure CSS](56-tooltips-and-modals.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៥៨៖ Glassmorphism & Frosted Glass Effect ➡️](58-glassmorphism.md) |

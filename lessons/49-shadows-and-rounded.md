@@ -138,3 +138,11 @@ box-shadow: [offset-x] [offset-y] [blur-radius] [spread-radius] [color] [inset];
 * Use semi-transparent colors (`rgba()`) for modern, subtle, and realistic shadows.
 * Multiple shadows can be combined using comma separation.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ៤៨៖ RWD: Mobile-First Strategy & Best Practices](48-rwd-mobile-first.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៥០៖ ផលប៉ះពាល់អក្សរ (CSS Text Effects) ➡️](50-text-effects.md) |

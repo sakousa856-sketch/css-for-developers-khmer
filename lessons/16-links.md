@@ -155,3 +155,11 @@ a.button-link:active {
 * Always follow the LVHA order: `a:link` MUST come before `a:visited`, `a:hover` MUST come after `a:link` and `a:visited`, and `a:active` MUST come after `a:hover`.
 * Links can be styled as buttons using `display: inline-block`, `padding`, and `border-radius`.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ១៥៖ ការប្រើប្រាស់ Icons (CSS Icons)](15-icons.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ១៧៖ ការកំណត់ Style លើបញ្ជី (CSS Lists) ➡️](17-lists.md) |

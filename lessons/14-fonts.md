@@ -133,3 +133,11 @@ body {
 * Web fonts can be included using Google Fonts or `@font-face`.
 * `font-weight` sets the thickness of characters (e.g. `400` for normal, `700` for bold).
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ១៣៖ ការកំណត់ទម្រង់អត្ថបទ (CSS Text Formatting)](13-text.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ១៥៖ ការប្រើប្រាស់ Icons (CSS Icons) ➡️](15-icons.md) |

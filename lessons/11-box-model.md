@@ -120,3 +120,11 @@ div {
 * `box-sizing: content-box` (default) adds padding and border on top of the specified width.
 * `box-sizing: border-box` includes padding and border within the specified width.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ១០៖ កម្ពស់ និងទទឹង (CSS Height, Width & Max-Width)](10-height-and-width.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ១២៖ បន្ទាត់ស៊ុមក្រៅ (CSS Outline) ➡️](12-outline.md) |

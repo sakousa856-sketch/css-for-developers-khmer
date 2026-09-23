@@ -131,3 +131,11 @@
 * The opacity-level value is in the range from `0.0` (fully transparent) to `1.0` (fully opaque).
 * To make ONLY the background transparent without affecting text, use `background-color: rgba(...)` instead of `opacity`.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ២៨៖ ធាតុក្លែងក្លាយ (CSS Pseudo-elements)](28-pseudo-elements.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៣០៖ របារបញ្ជា និងមីនុយ (CSS Navigation Bars) ➡️](30-navigation-bars.md) |

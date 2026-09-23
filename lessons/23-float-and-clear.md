@@ -124,3 +124,11 @@ img.avatar-right {
 * The Clearfix Hack (`::after { content: ""; display: table; clear: both; }`) prevents the parent from collapsing.
 * For full page layouts, prefer Flexbox or CSS Grid over Float.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ២២៖ ការគ្រប់គ្រងមាតិកាហៀរចេញ (CSS Overflow)](22-overflow.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ២៤៖ ធាតុប្លង់ Inline-Block (CSS Inline-Block Layout) ➡️](24-inline-block.md) |

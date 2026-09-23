@@ -135,3 +135,11 @@ img {
 * `object-fit: cover` clips the image to fit its container while preserving its aspect ratio.
 * Modern `aspect-ratio: 16 / 9` easily creates video or banner proportions without old padding hacks.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ៤៦៖ RWD: Media Queries (CSS @media)](46-rwd-media-queries.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៤៨៖ RWD: Mobile-First Strategy & Best Practices ➡️](48-rwd-mobile-first.md) |

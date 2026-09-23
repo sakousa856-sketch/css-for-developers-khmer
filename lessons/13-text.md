@@ -155,3 +155,11 @@ h1 {
 * `line-height` sets the distance between lines of text (recommended: unitless `1.5` to `1.7`).
 * `letter-spacing` controls the space between characters.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ១២៖ បន្ទាត់ស៊ុមក្រៅ (CSS Outline)](12-outline.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ១៤៖ ពុម្ពអក្សរ (CSS Fonts) ➡️](14-fonts.md) |

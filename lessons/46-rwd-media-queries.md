@@ -148,3 +148,11 @@
 * Mobile-first approach uses `min-width` queries to progressively enhance styles for larger screens.
 * Common industry breakpoints: `640px` (sm), `768px` (md), `1024px` (lg), `1280px` (xl).
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ៤៥៖ RWD: Viewport Meta Tag & Fluid Layouts](45-rwd-viewport.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ៤៧៖ RWD: Responsive Images & Media ➡️](47-rwd-images-and-media.md) |

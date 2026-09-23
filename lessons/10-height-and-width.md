@@ -132,3 +132,11 @@
 * Using `max-width` instead of `width` will improve the browser's handling of small windows and mobile viewports.
 * `min-height: 100vh` ensures the container is at least as tall as the viewport.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ០៩៖ គម្លាតខាងក្នុង (CSS Padding)](09-padding.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ១១៖ គំរូប្រអប់ (CSS Box Model) ➡️](11-box-model.md) |

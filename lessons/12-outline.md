@@ -128,3 +128,11 @@ button:focus-visible {
 * `outline-offset` adds space between an outline and the edge or border of an element.
 * Never remove outlines (`outline: none`) without providing an accessible alternative focus indicator.
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ១១៖ គំរូប្រអប់ (CSS Box Model)](11-box-model.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ១៣៖ ការកំណត់ទម្រង់អត្ថបទ (CSS Text Formatting) ➡️](13-text.md) |

@@ -144,3 +144,11 @@ p {
 * `margin: 0 auto;` centers a block element horizontally within its container if it has a specified width.
 * Top and bottom margins of elements are sometimes collapsed into a single margin that is equal to the largest of the two margins (Margin Collapse).
 </details>
+
+---
+
+## 🧭 ការរុករកមេរៀន (Lesson Navigation)
+
+| ⬅️ មេរៀនមុន (Previous) | 🏠 មាតិការួម (Table of Contents) | ➡️ មេរៀនបន្ទាប់ (Next) |
+| :--- | :---: | ---: |
+| [⬅️ មេរៀនទី ០៧៖ បន្ទាត់ព្រំដែន (CSS Borders)](07-borders.md) | [📚 មាតិកាទាំងអស់](../README.md) | [មេរៀនទី ០៩៖ គម្លាតខាងក្នុង (CSS Padding) ➡️](09-padding.md) |
